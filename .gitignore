@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+models/*.caffemodel
+models/*.prototxt
+*.pkl
+.DS_Store
