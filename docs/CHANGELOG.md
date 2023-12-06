@@ -11,3 +11,7 @@ All notable changes are documented here.
 - feat: add model download helper script for weights
 
 
+### 2022-01-14
+- fix: handle webcam open failure with descriptive error
+
+
