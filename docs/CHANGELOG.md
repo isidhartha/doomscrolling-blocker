@@ -15,3 +15,7 @@ All notable changes are documented here.
 - fix: handle webcam open failure with descriptive error
 
 
+### 2022-01-16
+- fix: resolve APScheduler job duplication on hot restart
+
+
