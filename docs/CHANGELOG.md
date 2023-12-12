@@ -19,3 +19,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2022-01-19
+- fix: fix cooldown timer reset logic after detection
+
+
