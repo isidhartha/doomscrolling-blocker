@@ -23,3 +23,7 @@ All notable changes are documented here.
 - fix: fix cooldown timer reset logic after detection
 
 
+### 2022-01-19
+- fix: resolve CORS preflight failure on dashboard endpoint
+
+
