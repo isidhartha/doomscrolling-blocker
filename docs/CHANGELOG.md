@@ -27,3 +27,7 @@ All notable changes are documented here.
 - fix: resolve CORS preflight failure on dashboard endpoint
 
 
+### 2022-01-21
+- test: add unit tests for phone detection confidence logic
+
+
