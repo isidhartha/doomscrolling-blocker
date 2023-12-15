@@ -31,3 +31,7 @@ All notable changes are documented here.
 - test: add unit tests for phone detection confidence logic
 
 
+### 2022-02-02
+- fix: resolve APScheduler job duplication on hot restart
+
+
