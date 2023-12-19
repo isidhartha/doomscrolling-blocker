@@ -35,3 +35,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2022-02-11
+- fix: resolve CORS preflight failure on dashboard endpoint
+
+
