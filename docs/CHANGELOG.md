@@ -39,3 +39,7 @@ All notable changes are documented here.
 - fix: resolve CORS preflight failure on dashboard endpoint
 
 
+### 2022-02-13
+- test: add mock-based test for Twilio SMS dispatch
+
+
