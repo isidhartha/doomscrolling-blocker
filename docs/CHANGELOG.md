@@ -43,3 +43,7 @@ All notable changes are documented here.
 - test: add mock-based test for Twilio SMS dispatch
 
 
+### 2022-02-18
+- feat: add price change percentage threshold alerting
+
+
