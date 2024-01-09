@@ -47,3 +47,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2022-02-21
+- fix: resolve OpenCV display crash on Windows 11
+
+
