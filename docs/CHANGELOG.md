@@ -55,3 +55,7 @@ All notable changes are documented here.
 - feat: implement SQLite persistence for alert history
 
 
+### 2022-03-03
+- feat: add concurrent ticker fetching with asyncio gather
+
+
