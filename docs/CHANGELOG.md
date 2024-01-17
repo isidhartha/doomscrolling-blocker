@@ -67,3 +67,7 @@ All notable changes are documented here.
 - refactor: separate FastAPI routes into dedicated routers
 
 
+### 2022-03-15
+- refactor: separate alert dispatch from detection pipeline
+
+
