@@ -71,3 +71,7 @@ All notable changes are documented here.
 - refactor: separate alert dispatch from detection pipeline
 
 
+### 2022-03-17
+- fix: resolve CORS preflight failure on dashboard endpoint
+
+
