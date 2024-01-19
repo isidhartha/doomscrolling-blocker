@@ -75,3 +75,7 @@ All notable changes are documented here.
 - fix: resolve CORS preflight failure on dashboard endpoint
 
 
+### 2022-03-19
+- fix: fix SQLite connection handling in async context
+
+
