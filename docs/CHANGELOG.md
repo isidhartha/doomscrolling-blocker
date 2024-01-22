@@ -79,3 +79,7 @@ All notable changes are documented here.
 - fix: fix SQLite connection handling in async context
 
 
+### 2022-03-23
+- fix: handle OpenAI API timeout in analysis agent
+
+
