@@ -87,3 +87,7 @@ All notable changes are documented here.
 - perf: cache OpenCV DNN model to avoid reloading per frame
 
 
+### 2022-04-05
+- feat: add FastAPI health and watchlist endpoints
+
+
