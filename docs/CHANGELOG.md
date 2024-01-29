@@ -91,3 +91,7 @@ All notable changes are documented here.
 - feat: add FastAPI health and watchlist endpoints
 
 
+### 2022-04-05
+- chore: add pre-commit hooks for black and ruff
+
+
