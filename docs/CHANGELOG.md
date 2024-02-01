@@ -99,3 +99,7 @@ All notable changes are documented here.
 - refactor: separate FastAPI routes into dedicated routers
 
 
+### 2022-04-06
+- feat: add graceful retry on yFinance API failure
+
+
