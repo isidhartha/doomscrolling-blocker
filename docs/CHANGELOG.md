@@ -107,3 +107,7 @@ All notable changes are documented here.
 - fix: fix SQLite connection handling in async context
 
 
+### 2022-04-19
+- fix: correct confidence threshold comparison operator
+
+
