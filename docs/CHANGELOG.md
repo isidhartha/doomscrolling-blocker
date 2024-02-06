@@ -111,3 +111,7 @@ All notable changes are documented here.
 - fix: correct confidence threshold comparison operator
 
 
+### 2022-04-25
+- fix: resolve OpenCV display crash on Windows 11
+
+
