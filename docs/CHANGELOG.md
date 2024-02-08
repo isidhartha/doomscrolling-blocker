@@ -115,3 +115,7 @@ All notable changes are documented here.
 - fix: resolve OpenCV display crash on Windows 11
 
 
+### 2022-04-30
+- chore: add pre-commit hooks for black and ruff
+
+
