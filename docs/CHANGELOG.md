@@ -119,3 +119,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2022-05-04
+- feat: implement yFinance ticker price polling loop
+
+
