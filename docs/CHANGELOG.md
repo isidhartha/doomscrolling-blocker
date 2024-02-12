@@ -123,3 +123,7 @@ All notable changes are documented here.
 - feat: implement yFinance ticker price polling loop
 
 
+### 2022-05-09
+- docs: document camera index configuration in README
+
+
