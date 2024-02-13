@@ -127,3 +127,7 @@ All notable changes are documented here.
 - docs: document camera index configuration in README
 
 
+### 2022-05-13
+- fix: correct price change percentage sign for falling assets
+
+
