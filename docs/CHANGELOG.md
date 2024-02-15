@@ -131,3 +131,7 @@ All notable changes are documented here.
 - fix: correct price change percentage sign for falling assets
 
 
+### 2022-05-21
+- fix: fix yFinance rate limit with exponential backoff
+
+
