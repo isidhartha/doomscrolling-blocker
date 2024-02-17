@@ -135,3 +135,7 @@ All notable changes are documented here.
 - fix: fix yFinance rate limit with exponential backoff
 
 
+### 2022-05-26
+- chore: add .gitignore entries for SQLite database files
+
+
