@@ -139,3 +139,7 @@ All notable changes are documented here.
 - chore: add .gitignore entries for SQLite database files
 
 
+### 2022-06-07
+- fix: resolve CORS preflight failure on dashboard endpoint
+
+
