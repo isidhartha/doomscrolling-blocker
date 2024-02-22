@@ -143,3 +143,7 @@ All notable changes are documented here.
 - fix: resolve CORS preflight failure on dashboard endpoint
 
 
+### 2022-06-09
+- feat: implement COCO class 77 phone classifier detection
+
+
