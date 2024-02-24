@@ -147,3 +147,7 @@ All notable changes are documented here.
 - feat: implement COCO class 77 phone classifier detection
 
 
+### 2022-06-09
+- docs: document alert threshold configuration options
+
+
