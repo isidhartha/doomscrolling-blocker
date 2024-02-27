@@ -151,3 +151,7 @@ All notable changes are documented here.
 - docs: document alert threshold configuration options
 
 
+### 2022-06-13
+- fix: fix yFinance rate limit with exponential backoff
+
+
