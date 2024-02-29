@@ -159,3 +159,7 @@ All notable changes are documented here.
 - chore: add .gitignore entries for SQLite database files
 
 
+### 2022-06-15
+- feat: add OpenCV webcam capture loop with configurable index
+
+
