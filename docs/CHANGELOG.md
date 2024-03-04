@@ -163,3 +163,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2022-06-21
+- feat: implement yFinance ticker price polling loop
+
+
