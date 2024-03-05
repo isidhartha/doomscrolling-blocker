@@ -167,3 +167,7 @@ All notable changes are documented here.
 - feat: implement yFinance ticker price polling loop
 
 
+### 2022-06-22
+- feat: add Docker Compose for local development setup
+
+
