@@ -175,3 +175,7 @@ All notable changes are documented here.
 - feat: implement MobileNet SSD phone detection via OpenCV DNN
 
 
+### 2022-07-06
+- fix: resolve APScheduler job duplication on hot restart
+
+
