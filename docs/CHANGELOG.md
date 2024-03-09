@@ -179,3 +179,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2022-07-07
+- style: format all files with black
+
+
