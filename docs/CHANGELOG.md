@@ -183,3 +183,7 @@ All notable changes are documented here.
 - style: format all files with black
 
 
+### 2022-07-08
+- fix: correct timezone handling for alert timestamps
+
+
