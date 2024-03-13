@@ -187,3 +187,7 @@ All notable changes are documented here.
 - fix: correct timezone handling for alert timestamps
 
 
+### 2022-07-12
+- feat: add OpenCV webcam capture loop with configurable index
+
+
