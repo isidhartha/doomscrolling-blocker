@@ -191,3 +191,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2022-07-15
+- chore: add pre-commit hooks for black and ruff
+
+
