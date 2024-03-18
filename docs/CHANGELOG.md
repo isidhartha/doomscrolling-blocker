@@ -195,3 +195,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2022-07-19
+- fix: handle network error during webcam frame read
+
+
