@@ -203,3 +203,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2022-07-28
+- fix: resolve OpenCV display crash on Windows 11
+
+
