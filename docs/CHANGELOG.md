@@ -207,3 +207,7 @@ All notable changes are documented here.
 - fix: resolve OpenCV display crash on Windows 11
 
 
+### 2022-07-28
+- feat: add OpenCV webcam capture loop with configurable index
+
+
