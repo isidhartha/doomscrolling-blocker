@@ -211,3 +211,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2022-08-01
+- feat: add FastAPI health and watchlist endpoints
+
+
