@@ -215,3 +215,7 @@ All notable changes are documented here.
 - feat: add FastAPI health and watchlist endpoints
 
 
+### 2022-08-01
+- test: add price change percentage calculation tests
+
+
