@@ -219,3 +219,7 @@ All notable changes are documented here.
 - test: add price change percentage calculation tests
 
 
+### 2022-08-11
+- chore: add pre-commit hooks for black and ruff
+
+
