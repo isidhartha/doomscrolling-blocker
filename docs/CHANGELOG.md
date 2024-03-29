@@ -223,3 +223,7 @@ All notable changes are documented here.
 - chore: add pre-commit hooks for black and ruff
 
 
+### 2022-08-16
+- test: add integration test for watchlist REST API
+
+
