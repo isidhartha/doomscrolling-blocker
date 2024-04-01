@@ -227,3 +227,7 @@ All notable changes are documented here.
 - test: add integration test for watchlist REST API
 
 
+### 2022-08-16
+- feat: implement detection confidence overlay on live frame
+
+
