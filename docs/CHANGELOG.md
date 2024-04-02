@@ -231,3 +231,7 @@ All notable changes are documented here.
 - feat: implement detection confidence overlay on live frame
 
 
+### 2022-08-16
+- refactor: extract phone detection logic from main loop
+
+
