@@ -235,3 +235,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2022-08-23
+- feat: add concurrent ticker fetching with asyncio gather
+
+
