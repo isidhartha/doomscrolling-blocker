@@ -239,3 +239,7 @@ All notable changes are documented here.
 - feat: add concurrent ticker fetching with asyncio gather
 
 
+### 2022-08-24
+- chore: update requirements.txt with current versions
+
+
