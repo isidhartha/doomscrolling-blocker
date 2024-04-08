@@ -243,3 +243,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with current versions
 
 
+### 2022-08-26
+- refactor: separate FastAPI routes into dedicated routers
+
+
