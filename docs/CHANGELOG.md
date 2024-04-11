@@ -251,3 +251,7 @@ All notable changes are documented here.
 - feat: implement OpenAI agent for price anomaly analysis
 
 
+### 2022-09-06
+- fix: handle OpenAI API timeout in analysis agent
+
+
