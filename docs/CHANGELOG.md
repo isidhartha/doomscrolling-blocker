@@ -255,3 +255,7 @@ All notable changes are documented here.
 - fix: handle OpenAI API timeout in analysis agent
 
 
+### 2022-09-07
+- refactor: separate alert dispatch from detection pipeline
+
+
