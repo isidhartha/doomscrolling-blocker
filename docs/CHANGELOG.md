@@ -259,3 +259,7 @@ All notable changes are documented here.
 - refactor: separate alert dispatch from detection pipeline
 
 
+### 2022-09-08
+- refactor: extract phone detection logic from main loop
+
+
