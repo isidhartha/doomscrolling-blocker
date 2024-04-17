@@ -263,3 +263,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2022-09-08
+- fix: handle missing model files with graceful fallback
+
+
