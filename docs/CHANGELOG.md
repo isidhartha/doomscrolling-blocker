@@ -267,3 +267,7 @@ All notable changes are documented here.
 - fix: handle missing model files with graceful fallback
 
 
+### 2022-09-13
+- style: format all files with black
+
+
