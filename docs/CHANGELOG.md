@@ -271,3 +271,7 @@ All notable changes are documented here.
 - style: format all files with black
 
 
+### 2022-09-13
+- fix: handle OpenAI API timeout in analysis agent
+
+
