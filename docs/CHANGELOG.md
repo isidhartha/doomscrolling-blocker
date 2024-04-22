@@ -275,3 +275,7 @@ All notable changes are documented here.
 - fix: handle OpenAI API timeout in analysis agent
 
 
+### 2022-09-14
+- refactor: extract phone detection logic from main loop
+
+
