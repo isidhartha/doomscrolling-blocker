@@ -283,3 +283,7 @@ All notable changes are documented here.
 - style: normalise import ordering
 
 
+### 2022-09-26
+- feat: add FastAPI health and watchlist endpoints
+
+
