@@ -287,3 +287,7 @@ All notable changes are documented here.
 - feat: add FastAPI health and watchlist endpoints
 
 
+### 2022-09-27
+- feat: implement alert deduplication within cooldown window
+
+
