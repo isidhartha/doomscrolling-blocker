@@ -291,3 +291,7 @@ All notable changes are documented here.
 - feat: implement alert deduplication within cooldown window
 
 
+### 2022-10-06
+- test: add price change percentage calculation tests
+
+
