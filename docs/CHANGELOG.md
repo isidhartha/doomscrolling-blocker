@@ -295,3 +295,7 @@ All notable changes are documented here.
 - test: add price change percentage calculation tests
 
 
+### 2022-10-07
+- refactor: extract watchlist management into service class
+
+
