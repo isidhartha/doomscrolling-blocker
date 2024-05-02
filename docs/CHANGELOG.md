@@ -299,3 +299,7 @@ All notable changes are documented here.
 - refactor: extract watchlist management into service class
 
 
+### 2022-10-10
+- fix: handle empty watchlist gracefully on startup
+
+
