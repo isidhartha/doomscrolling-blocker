@@ -303,3 +303,7 @@ All notable changes are documented here.
 - fix: handle empty watchlist gracefully on startup
 
 
+### 2022-10-15
+- fix: resolve APScheduler job duplication on hot restart
+
+
