@@ -307,3 +307,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2022-10-16
+- docs: add model download instructions to setup guide
+
+
