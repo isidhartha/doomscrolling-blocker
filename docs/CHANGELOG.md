@@ -311,3 +311,7 @@ All notable changes are documented here.
 - docs: add model download instructions to setup guide
 
 
+### 2022-10-19
+- feat: add graceful retry on yFinance API failure
+
+
