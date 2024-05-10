@@ -315,3 +315,7 @@ All notable changes are documented here.
 - feat: add graceful retry on yFinance API failure
 
 
+### 2022-10-24
+- docs: document alert threshold configuration options
+
+
