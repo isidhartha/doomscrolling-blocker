@@ -319,3 +319,7 @@ All notable changes are documented here.
 - docs: document alert threshold configuration options
 
 
+### 2022-10-24
+- test: add cooldown timer unit tests
+
+
