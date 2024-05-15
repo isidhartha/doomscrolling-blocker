@@ -323,3 +323,7 @@ All notable changes are documented here.
 - test: add cooldown timer unit tests
 
 
+### 2022-11-01
+- fix: correct price change percentage sign for falling assets
+
+
