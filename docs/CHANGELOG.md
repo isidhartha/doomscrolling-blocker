@@ -327,3 +327,7 @@ All notable changes are documented here.
 - fix: correct price change percentage sign for falling assets
 
 
+### 2022-11-07
+- test: add price change percentage calculation tests
+
+
