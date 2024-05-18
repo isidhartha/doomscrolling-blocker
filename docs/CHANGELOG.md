@@ -331,3 +331,7 @@ All notable changes are documented here.
 - test: add price change percentage calculation tests
 
 
+### 2022-11-15
+- feat: add camera index configuration via environment variable
+
+
