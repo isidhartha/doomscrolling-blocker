@@ -335,3 +335,7 @@ All notable changes are documented here.
 - feat: add camera index configuration via environment variable
 
 
+### 2022-11-16
+- fix: correct price change percentage sign for falling assets
+
+
