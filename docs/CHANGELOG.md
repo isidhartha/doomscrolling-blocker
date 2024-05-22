@@ -339,3 +339,7 @@ All notable changes are documented here.
 - fix: correct price change percentage sign for falling assets
 
 
+### 2022-11-28
+- feat: implement structured JSON logging throughout
+
+
