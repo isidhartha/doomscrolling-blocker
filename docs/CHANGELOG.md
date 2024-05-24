@@ -343,3 +343,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging throughout
 
 
+### 2022-11-29
+- test: add integration test for watchlist REST API
+
+
