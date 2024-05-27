@@ -347,3 +347,7 @@ All notable changes are documented here.
 - test: add integration test for watchlist REST API
 
 
+### 2022-12-05
+- fix: correct timezone handling for alert timestamps
+
+
