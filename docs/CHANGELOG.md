@@ -351,3 +351,7 @@ All notable changes are documented here.
 - fix: correct timezone handling for alert timestamps
 
 
+### 2022-12-05
+- fix: handle OpenAI API timeout in analysis agent
+
+
