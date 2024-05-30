@@ -355,3 +355,7 @@ All notable changes are documented here.
 - fix: handle OpenAI API timeout in analysis agent
 
 
+### 2022-12-06
+- refactor: consolidate database operations into repository
+
+
