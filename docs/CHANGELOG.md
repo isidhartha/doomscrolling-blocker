@@ -359,3 +359,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2022-12-08
+- feat: implement MobileNet SSD phone detection via OpenCV DNN
+
+
