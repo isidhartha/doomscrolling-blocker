@@ -363,3 +363,7 @@ All notable changes are documented here.
 - feat: implement MobileNet SSD phone detection via OpenCV DNN
 
 
+### 2022-12-08
+- refactor: extract watchlist management into service class
+
+
