@@ -367,3 +367,7 @@ All notable changes are documented here.
 - refactor: extract watchlist management into service class
 
 
+### 2022-12-15
+- chore: add .gitignore entries for SQLite database files
+
+
