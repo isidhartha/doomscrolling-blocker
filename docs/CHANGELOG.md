@@ -371,3 +371,7 @@ All notable changes are documented here.
 - chore: add .gitignore entries for SQLite database files
 
 
+### 2022-12-19
+- refactor: separate alert dispatch from detection pipeline
+
+
