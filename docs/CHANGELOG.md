@@ -375,3 +375,7 @@ All notable changes are documented here.
 - refactor: separate alert dispatch from detection pipeline
 
 
+### 2022-12-23
+- test: add unit tests for phone detection confidence logic
+
+
