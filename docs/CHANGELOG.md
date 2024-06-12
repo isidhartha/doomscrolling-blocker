@@ -383,3 +383,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2023-01-17
+- fix: fix alert threshold comparison for downside moves
+
+
