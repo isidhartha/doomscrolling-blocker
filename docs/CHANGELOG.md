@@ -387,3 +387,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2023-01-21
+- feat: implement MobileNet SSD phone detection via OpenCV DNN
+
+
