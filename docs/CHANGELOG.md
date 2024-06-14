@@ -391,3 +391,7 @@ All notable changes are documented here.
 - feat: implement MobileNet SSD phone detection via OpenCV DNN
 
 
+### 2023-01-23
+- docs: add model download instructions to setup guide
+
+
