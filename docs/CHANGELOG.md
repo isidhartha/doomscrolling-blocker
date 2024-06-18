@@ -395,3 +395,7 @@ All notable changes are documented here.
 - docs: add model download instructions to setup guide
 
 
+### 2023-01-30
+- perf: implement async yFinance fetching for concurrent tickers
+
+
