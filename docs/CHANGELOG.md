@@ -399,3 +399,7 @@ All notable changes are documented here.
 - perf: implement async yFinance fetching for concurrent tickers
 
 
+### 2023-02-01
+- feat: implement graceful shutdown on Q keypress
+
+
