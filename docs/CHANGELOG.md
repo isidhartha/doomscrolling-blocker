@@ -403,3 +403,7 @@ All notable changes are documented here.
 - feat: implement graceful shutdown on Q keypress
 
 
+### 2023-02-02
+- feat: add APScheduler job for configurable polling interval
+
+
