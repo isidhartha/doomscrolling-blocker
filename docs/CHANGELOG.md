@@ -407,3 +407,7 @@ All notable changes are documented here.
 - feat: add APScheduler job for configurable polling interval
 
 
+### 2023-02-03
+- feat: add Docker Compose for local development setup
+
+
