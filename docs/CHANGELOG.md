@@ -415,3 +415,7 @@ All notable changes are documented here.
 - refactor: separate FastAPI routes into dedicated routers
 
 
+### 2023-02-16
+- refactor: move all configuration to environment variables
+
+
