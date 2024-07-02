@@ -419,3 +419,7 @@ All notable changes are documented here.
 - refactor: move all configuration to environment variables
 
 
+### 2023-02-22
+- feat: add Twilio SMS alert dispatch on condition trigger
+
+
