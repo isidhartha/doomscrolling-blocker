@@ -423,3 +423,7 @@ All notable changes are documented here.
 - feat: add Twilio SMS alert dispatch on condition trigger
 
 
+### 2023-02-28
+- feat: add FastAPI health and watchlist endpoints
+
+
