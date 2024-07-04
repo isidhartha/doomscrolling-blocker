@@ -427,3 +427,7 @@ All notable changes are documented here.
 - feat: add FastAPI health and watchlist endpoints
 
 
+### 2023-03-05
+- fix: fix cooldown timer reset logic after detection
+
+
