@@ -431,3 +431,7 @@ All notable changes are documented here.
 - fix: fix cooldown timer reset logic after detection
 
 
+### 2023-03-15
+- test: add price change percentage calculation tests
+
+
