@@ -435,3 +435,7 @@ All notable changes are documented here.
 - test: add price change percentage calculation tests
 
 
+### 2023-03-19
+- docs: update docs/API.md with all watchlist endpoints
+
+
