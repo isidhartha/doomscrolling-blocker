@@ -443,3 +443,7 @@ All notable changes are documented here.
 - style: normalise import ordering
 
 
+### 2023-03-29
+- feat: add price change percentage threshold alerting
+
+
