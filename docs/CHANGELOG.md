@@ -447,3 +447,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2023-04-06
+- test: add price change percentage calculation tests
+
+
