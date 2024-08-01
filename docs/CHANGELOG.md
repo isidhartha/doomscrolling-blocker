@@ -451,3 +451,7 @@ All notable changes are documented here.
 - test: add price change percentage calculation tests
 
 
+### 2023-04-07
+- test: add mock-based test for Twilio SMS dispatch
+
+
