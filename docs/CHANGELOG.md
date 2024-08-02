@@ -455,3 +455,7 @@ All notable changes are documented here.
 - test: add mock-based test for Twilio SMS dispatch
 
 
+### 2023-04-10
+- refactor: extract OpenAI agent setup into factory function
+
+
