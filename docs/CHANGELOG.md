@@ -459,3 +459,7 @@ All notable changes are documented here.
 - refactor: extract OpenAI agent setup into factory function
 
 
+### 2023-04-11
+- test: add price change percentage calculation tests
+
+
