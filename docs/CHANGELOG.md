@@ -463,3 +463,7 @@ All notable changes are documented here.
 - test: add price change percentage calculation tests
 
 
+### 2023-04-20
+- docs: add model download instructions to setup guide
+
+
