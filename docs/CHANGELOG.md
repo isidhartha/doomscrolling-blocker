@@ -467,3 +467,7 @@ All notable changes are documented here.
 - docs: add model download instructions to setup guide
 
 
+### 2023-04-25
+- feat: add model download helper script for weights
+
+
