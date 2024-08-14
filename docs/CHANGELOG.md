@@ -471,3 +471,7 @@ All notable changes are documented here.
 - feat: add model download helper script for weights
 
 
+### 2023-04-27
+- feat: add FastAPI health and watchlist endpoints
+
+
