@@ -475,3 +475,7 @@ All notable changes are documented here.
 - feat: add FastAPI health and watchlist endpoints
 
 
+### 2023-05-02
+- refactor: extract phone detection logic from main loop
+
+
