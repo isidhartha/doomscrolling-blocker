@@ -479,3 +479,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2023-05-05
+- feat: add price change percentage threshold alerting
+
+
