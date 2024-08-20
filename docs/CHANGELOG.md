@@ -483,3 +483,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2023-05-08
+- feat: implement SQLite persistence for alert history
+
+
