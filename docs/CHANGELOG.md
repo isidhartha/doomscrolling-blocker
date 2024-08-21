@@ -487,3 +487,7 @@ All notable changes are documented here.
 - feat: implement SQLite persistence for alert history
 
 
+### 2023-05-11
+- refactor: separate FastAPI routes into dedicated routers
+
+
