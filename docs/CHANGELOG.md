@@ -491,3 +491,7 @@ All notable changes are documented here.
 - refactor: separate FastAPI routes into dedicated routers
 
 
+### 2023-05-12
+- feat: implement alert history endpoint with date filtering
+
+
