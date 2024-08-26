@@ -495,3 +495,7 @@ All notable changes are documented here.
 - feat: implement alert history endpoint with date filtering
 
 
+### 2023-05-17
+- docs: update docs/API.md with all watchlist endpoints
+
+
