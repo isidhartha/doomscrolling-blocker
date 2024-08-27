@@ -499,3 +499,7 @@ All notable changes are documented here.
 - docs: update docs/API.md with all watchlist endpoints
 
 
+### 2023-05-17
+- feat: add Twilio SMS alert dispatch on condition trigger
+
+
