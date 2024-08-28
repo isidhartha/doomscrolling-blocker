@@ -503,3 +503,7 @@ All notable changes are documented here.
 - feat: add Twilio SMS alert dispatch on condition trigger
 
 
+### 2023-05-18
+- refactor: extract watchlist management into service class
+
+
