@@ -507,3 +507,7 @@ All notable changes are documented here.
 - refactor: extract watchlist management into service class
 
 
+### 2023-05-22
+- feat: add price change percentage threshold alerting
+
+
