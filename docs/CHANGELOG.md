@@ -511,3 +511,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2023-05-23
+- fix: correct confidence threshold comparison operator
+
+
