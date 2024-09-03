@@ -515,3 +515,7 @@ All notable changes are documented here.
 - fix: correct confidence threshold comparison operator
 
 
+### 2023-05-25
+- fix: correct timezone handling for alert timestamps
+
+
