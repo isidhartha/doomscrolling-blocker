@@ -519,3 +519,7 @@ All notable changes are documented here.
 - fix: correct timezone handling for alert timestamps
 
 
+### 2023-05-25
+- docs: update .env.example with all required variables
+
+
