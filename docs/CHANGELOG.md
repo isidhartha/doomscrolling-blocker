@@ -523,3 +523,7 @@ All notable changes are documented here.
 - docs: update .env.example with all required variables
 
 
+### 2023-05-26
+- test: add cooldown timer unit tests
+
+
