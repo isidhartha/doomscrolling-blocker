@@ -527,3 +527,7 @@ All notable changes are documented here.
 - test: add cooldown timer unit tests
 
 
+### 2023-05-29
+- feat: implement COCO class 77 phone classifier detection
+
+
