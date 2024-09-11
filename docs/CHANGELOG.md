@@ -531,3 +531,7 @@ All notable changes are documented here.
 - feat: implement COCO class 77 phone classifier detection
 
 
+### 2023-05-30
+- feat: implement cooldown timer between consecutive alert triggers
+
+
