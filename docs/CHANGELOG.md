@@ -539,3 +539,7 @@ All notable changes are documented here.
 - perf: use connection pool for SQLite write operations
 
 
+### 2023-06-01
+- chore: bump fastapi to 0.115.x
+
+
