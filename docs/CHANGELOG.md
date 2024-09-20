@@ -543,3 +543,7 @@ All notable changes are documented here.
 - chore: bump fastapi to 0.115.x
 
 
+### 2023-06-05
+- feat: implement OpenAI agent for price anomaly analysis
+
+
