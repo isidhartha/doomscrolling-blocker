@@ -547,3 +547,7 @@ All notable changes are documented here.
 - feat: implement OpenAI agent for price anomaly analysis
 
 
+### 2023-06-06
+- fix: fix alert threshold comparison for downside moves
+
+
