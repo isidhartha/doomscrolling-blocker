@@ -551,3 +551,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2023-06-06
+- feat: add price change percentage threshold alerting
+
+
