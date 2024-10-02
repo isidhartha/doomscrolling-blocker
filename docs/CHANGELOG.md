@@ -555,3 +555,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2023-06-09
+- test: add integration test for watchlist REST API
+
+
