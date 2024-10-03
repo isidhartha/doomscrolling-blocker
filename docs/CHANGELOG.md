@@ -559,3 +559,7 @@ All notable changes are documented here.
 - test: add integration test for watchlist REST API
 
 
+### 2023-06-14
+- test: add mock-based test for Twilio SMS dispatch
+
+
