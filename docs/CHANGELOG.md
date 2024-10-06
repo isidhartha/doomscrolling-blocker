@@ -563,3 +563,7 @@ All notable changes are documented here.
 - test: add mock-based test for Twilio SMS dispatch
 
 
+### 2023-06-19
+- docs: update .env.example with all required variables
+
+
