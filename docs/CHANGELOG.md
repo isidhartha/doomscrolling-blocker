@@ -567,3 +567,7 @@ All notable changes are documented here.
 - docs: update .env.example with all required variables
 
 
+### 2023-06-22
+- feat: add OpenCV webcam capture loop with configurable index
+
+
