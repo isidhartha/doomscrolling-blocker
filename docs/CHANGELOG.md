@@ -571,3 +571,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2023-06-23
+- fix: handle webcam open failure with descriptive error
+
+
