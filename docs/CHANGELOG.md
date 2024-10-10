@@ -575,3 +575,7 @@ All notable changes are documented here.
 - fix: handle webcam open failure with descriptive error
 
 
+### 2023-06-24
+- feat: implement MobileNet SSD phone detection via OpenCV DNN
+
+
