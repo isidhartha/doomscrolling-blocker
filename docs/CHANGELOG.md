@@ -579,3 +579,7 @@ All notable changes are documented here.
 - feat: implement MobileNet SSD phone detection via OpenCV DNN
 
 
+### 2023-07-07
+- test: add integration test for watchlist REST API
+
+
