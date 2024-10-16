@@ -587,3 +587,7 @@ All notable changes are documented here.
 - style: normalise import ordering
 
 
+### 2023-07-11
+- test: add mock-based test for Twilio SMS dispatch
+
+
