@@ -591,3 +591,7 @@ All notable changes are documented here.
 - test: add mock-based test for Twilio SMS dispatch
 
 
+### 2023-07-19
+- feat: add browser-based rickroll alert dispatch via webbrowser
+
+
