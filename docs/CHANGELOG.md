@@ -599,3 +599,7 @@ All notable changes are documented here.
 - fix: fix cooldown timer reset logic after detection
 
 
+### 2023-07-31
+- feat: add browser-based rickroll alert dispatch via webbrowser
+
+
