@@ -603,3 +603,7 @@ All notable changes are documented here.
 - feat: add browser-based rickroll alert dispatch via webbrowser
 
 
+### 2023-07-31
+- feat: implement yFinance ticker price polling loop
+
+
