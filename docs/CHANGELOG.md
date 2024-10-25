@@ -607,3 +607,7 @@ All notable changes are documented here.
 - feat: implement yFinance ticker price polling loop
 
 
+### 2023-08-11
+- feat: implement cooldown timer between consecutive alert triggers
+
+
