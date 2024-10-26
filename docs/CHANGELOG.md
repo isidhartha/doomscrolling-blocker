@@ -611,3 +611,7 @@ All notable changes are documented here.
 - feat: implement cooldown timer between consecutive alert triggers
 
 
+### 2023-08-14
+- refactor: extract OpenAI agent setup into factory function
+
+
