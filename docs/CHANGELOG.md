@@ -615,3 +615,7 @@ All notable changes are documented here.
 - refactor: extract OpenAI agent setup into factory function
 
 
+### 2023-08-22
+- fix: resolve APScheduler job duplication on hot restart
+
+
