@@ -619,3 +619,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2023-08-30
+- feat: add APScheduler job for configurable polling interval
+
+
