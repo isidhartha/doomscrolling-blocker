@@ -623,3 +623,7 @@ All notable changes are documented here.
 - feat: add APScheduler job for configurable polling interval
 
 
+### 2023-08-30
+- feat: add camera index configuration via environment variable
+
+
