@@ -627,3 +627,7 @@ All notable changes are documented here.
 - feat: add camera index configuration via environment variable
 
 
+### 2023-08-31
+- feat: implement alert deduplication within cooldown window
+
+
