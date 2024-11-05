@@ -631,3 +631,7 @@ All notable changes are documented here.
 - feat: implement alert deduplication within cooldown window
 
 
+### 2023-08-31
+- chore: update requirements.txt with current versions
+
+
