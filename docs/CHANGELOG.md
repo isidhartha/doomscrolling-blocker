@@ -635,3 +635,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with current versions
 
 
+### 2023-09-06
+- feat: add graceful retry on yFinance API failure
+
+
