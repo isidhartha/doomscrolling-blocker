@@ -639,3 +639,7 @@ All notable changes are documented here.
 - feat: add graceful retry on yFinance API failure
 
 
+### 2023-09-10
+- refactor: consolidate database operations into repository
+
+
