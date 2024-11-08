@@ -643,3 +643,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2023-09-15
+- feat: add Docker Compose for local development setup
+
+
