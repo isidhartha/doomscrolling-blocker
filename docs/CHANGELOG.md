@@ -647,3 +647,7 @@ All notable changes are documented here.
 - feat: add Docker Compose for local development setup
 
 
+### 2023-09-19
+- feat: implement real-time price dashboard endpoint
+
+
