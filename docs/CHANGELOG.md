@@ -651,3 +651,7 @@ All notable changes are documented here.
 - feat: implement real-time price dashboard endpoint
 
 
+### 2023-09-22
+- feat: implement cooldown timer between consecutive alert triggers
+
+
