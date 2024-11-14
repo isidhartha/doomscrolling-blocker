@@ -655,3 +655,7 @@ All notable changes are documented here.
 - feat: implement cooldown timer between consecutive alert triggers
 
 
+### 2023-09-29
+- fix: fix SQLite connection handling in async context
+
+
