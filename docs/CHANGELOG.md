@@ -659,3 +659,7 @@ All notable changes are documented here.
 - fix: fix SQLite connection handling in async context
 
 
+### 2023-10-04
+- feat: implement OpenAI agent for price anomaly analysis
+
+
