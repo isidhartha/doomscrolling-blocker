@@ -663,3 +663,7 @@ All notable changes are documented here.
 - feat: implement OpenAI agent for price anomaly analysis
 
 
+### 2023-10-05
+- docs: update docs/API.md with all watchlist endpoints
+
+
