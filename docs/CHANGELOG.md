@@ -667,3 +667,7 @@ All notable changes are documented here.
 - docs: update docs/API.md with all watchlist endpoints
 
 
+### 2023-10-09
+- refactor: separate alert dispatch from detection pipeline
+
+
