@@ -671,3 +671,7 @@ All notable changes are documented here.
 - refactor: separate alert dispatch from detection pipeline
 
 
+### 2023-10-13
+- feat: implement SQLite persistence for alert history
+
+
