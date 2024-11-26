@@ -675,3 +675,7 @@ All notable changes are documented here.
 - feat: implement SQLite persistence for alert history
 
 
+### 2023-10-20
+- fix: handle network error during webcam frame read
+
+
