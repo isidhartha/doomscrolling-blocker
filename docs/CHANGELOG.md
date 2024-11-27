@@ -679,3 +679,7 @@ All notable changes are documented here.
 - fix: handle network error during webcam frame read
 
 
+### 2023-10-27
+- feat: implement detection confidence overlay on live frame
+
+
