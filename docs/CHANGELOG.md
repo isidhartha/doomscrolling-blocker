@@ -683,3 +683,7 @@ All notable changes are documented here.
 - feat: implement detection confidence overlay on live frame
 
 
+### 2023-10-29
+- feat: add browser-based rickroll alert dispatch via webbrowser
+
+
