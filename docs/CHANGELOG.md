@@ -687,3 +687,7 @@ All notable changes are documented here.
 - feat: add browser-based rickroll alert dispatch via webbrowser
 
 
+### 2023-10-30
+- feat: add OpenCV webcam capture loop with configurable index
+
+
