@@ -691,3 +691,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2023-10-31
+- feat: implement OpenAI agent for price anomaly analysis
+
+
