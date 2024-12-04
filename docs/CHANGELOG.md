@@ -695,3 +695,7 @@ All notable changes are documented here.
 - feat: implement OpenAI agent for price anomaly analysis
 
 
+### 2023-11-06
+- fix: fix cooldown timer reset logic after detection
+
+
