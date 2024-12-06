@@ -699,3 +699,7 @@ All notable changes are documented here.
 - fix: fix cooldown timer reset logic after detection
 
 
+### 2023-11-06
+- refactor: separate alert dispatch from detection pipeline
+
+
