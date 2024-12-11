@@ -707,3 +707,7 @@ All notable changes are documented here.
 - chore: add .gitignore entries for SQLite database files
 
 
+### 2023-11-17
+- chore: update requirements.txt with current versions
+
+
