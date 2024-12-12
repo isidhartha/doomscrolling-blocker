@@ -711,3 +711,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with current versions
 
 
+### 2023-11-30
+- docs: update .env.example with all required variables
+
+
