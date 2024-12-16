@@ -719,3 +719,7 @@ All notable changes are documented here.
 - fix: handle network error during webcam frame read
 
 
+### 2023-12-14
+- docs: add data flow diagram for agent architecture
+
+
