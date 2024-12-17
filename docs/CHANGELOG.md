@@ -723,3 +723,7 @@ All notable changes are documented here.
 - docs: add data flow diagram for agent architecture
 
 
+### 2023-12-17
+- feat: implement detection confidence overlay on live frame
+
+
