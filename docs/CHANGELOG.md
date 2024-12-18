@@ -727,3 +727,7 @@ All notable changes are documented here.
 - feat: implement detection confidence overlay on live frame
 
 
+### 2023-12-18
+- refactor: separate FastAPI routes into dedicated routers
+
+
