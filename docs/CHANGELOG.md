@@ -735,3 +735,7 @@ All notable changes are documented here.
 - docs: update .env.example with all required variables
 
 
+### 2023-12-22
+- fix: correct confidence threshold comparison operator
+
+
