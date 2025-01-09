@@ -739,3 +739,7 @@ All notable changes are documented here.
 - fix: correct confidence threshold comparison operator
 
 
+### 2023-12-22
+- feat: implement detection confidence overlay on live frame
+
+
