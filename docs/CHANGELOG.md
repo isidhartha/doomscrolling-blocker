@@ -743,3 +743,7 @@ All notable changes are documented here.
 - feat: implement detection confidence overlay on live frame
 
 
+### 2023-12-27
+- feat: add OpenCV webcam capture loop with configurable index
+
+
