@@ -747,3 +747,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2023-12-28
+- test: add mock-based test for Twilio SMS dispatch
+
+
