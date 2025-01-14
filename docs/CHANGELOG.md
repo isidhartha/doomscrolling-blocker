@@ -751,3 +751,7 @@ All notable changes are documented here.
 - test: add mock-based test for Twilio SMS dispatch
 
 
+### 2024-01-02
+- feat: add detection confidence threshold configuration
+
+
