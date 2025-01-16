@@ -755,3 +755,7 @@ All notable changes are documented here.
 - feat: add detection confidence threshold configuration
 
 
+### 2024-01-05
+- feat: add price change percentage threshold alerting
+
+
