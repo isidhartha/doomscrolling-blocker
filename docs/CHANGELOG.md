@@ -759,3 +759,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2024-01-10
+- chore: bump fastapi to 0.115.x
+
+
