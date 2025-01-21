@@ -767,3 +767,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging throughout
 
 
+### 2024-01-14
+- refactor: extract OpenAI agent setup into factory function
+
+
