@@ -771,3 +771,7 @@ All notable changes are documented here.
 - refactor: extract OpenAI agent setup into factory function
 
 
+### 2024-01-18
+- fix: handle missing model files with graceful fallback
+
+
