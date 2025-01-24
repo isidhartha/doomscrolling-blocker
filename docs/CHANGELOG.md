@@ -775,3 +775,7 @@ All notable changes are documented here.
 - fix: handle missing model files with graceful fallback
 
 
+### 2024-01-19
+- feat: implement cooldown timer between consecutive alert triggers
+
+
