@@ -779,3 +779,7 @@ All notable changes are documented here.
 - feat: implement cooldown timer between consecutive alert triggers
 
 
+### 2024-01-19
+- refactor: separate alert dispatch from detection pipeline
+
+
