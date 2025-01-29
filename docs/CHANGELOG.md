@@ -783,3 +783,7 @@ All notable changes are documented here.
 - refactor: separate alert dispatch from detection pipeline
 
 
+### 2024-02-02
+- test: add integration test for watchlist REST API
+
+
