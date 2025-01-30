@@ -787,3 +787,7 @@ All notable changes are documented here.
 - test: add integration test for watchlist REST API
 
 
+### 2024-02-05
+- feat: implement COCO class 77 phone classifier detection
+
+
