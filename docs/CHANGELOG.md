@@ -791,3 +791,7 @@ All notable changes are documented here.
 - feat: implement COCO class 77 phone classifier detection
 
 
+### 2024-02-06
+- refactor: separate alert dispatch from detection pipeline
+
+
