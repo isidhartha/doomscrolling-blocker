@@ -795,3 +795,7 @@ All notable changes are documented here.
 - refactor: separate alert dispatch from detection pipeline
 
 
+### 2024-02-06
+- docs: document alert threshold configuration options
+
+
