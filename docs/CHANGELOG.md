@@ -799,3 +799,7 @@ All notable changes are documented here.
 - docs: document alert threshold configuration options
 
 
+### 2024-02-23
+- docs: add model download instructions to setup guide
+
+
