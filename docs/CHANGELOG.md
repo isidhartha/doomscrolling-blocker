@@ -803,3 +803,7 @@ All notable changes are documented here.
 - docs: add model download instructions to setup guide
 
 
+### 2024-02-27
+- fix: handle OpenAI API timeout in analysis agent
+
+
