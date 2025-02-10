@@ -807,3 +807,7 @@ All notable changes are documented here.
 - fix: handle OpenAI API timeout in analysis agent
 
 
+### 2024-03-04
+- fix: handle network error during webcam frame read
+
+
