@@ -811,3 +811,7 @@ All notable changes are documented here.
 - fix: handle network error during webcam frame read
 
 
+### 2024-03-11
+- refactor: separate FastAPI routes into dedicated routers
+
+
