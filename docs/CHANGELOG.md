@@ -815,3 +815,7 @@ All notable changes are documented here.
 - refactor: separate FastAPI routes into dedicated routers
 
 
+### 2024-03-18
+- feat: add Twilio SMS alert dispatch on condition trigger
+
+
