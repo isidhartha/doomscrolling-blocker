@@ -819,3 +819,7 @@ All notable changes are documented here.
 - feat: add Twilio SMS alert dispatch on condition trigger
 
 
+### 2024-03-22
+- fix: handle OpenAI API timeout in analysis agent
+
+
