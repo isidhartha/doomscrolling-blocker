@@ -823,3 +823,7 @@ All notable changes are documented here.
 - fix: handle OpenAI API timeout in analysis agent
 
 
+### 2024-03-24
+- feat: add FastAPI health and watchlist endpoints
+
+
