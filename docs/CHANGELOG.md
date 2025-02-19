@@ -827,3 +827,7 @@ All notable changes are documented here.
 - feat: add FastAPI health and watchlist endpoints
 
 
+### 2024-03-28
+- refactor: extract OpenAI agent setup into factory function
+
+
