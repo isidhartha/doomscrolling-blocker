@@ -831,3 +831,7 @@ All notable changes are documented here.
 - refactor: extract OpenAI agent setup into factory function
 
 
+### 2024-03-30
+- docs: add model download instructions to setup guide
+
+
