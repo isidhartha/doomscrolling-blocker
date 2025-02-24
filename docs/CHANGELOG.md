@@ -835,3 +835,7 @@ All notable changes are documented here.
 - docs: add model download instructions to setup guide
 
 
+### 2024-04-04
+- feat: add detection confidence threshold configuration
+
+
