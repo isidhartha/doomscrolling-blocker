@@ -839,3 +839,7 @@ All notable changes are documented here.
 - feat: add detection confidence threshold configuration
 
 
+### 2024-04-06
+- fix: correct confidence threshold comparison operator
+
+
