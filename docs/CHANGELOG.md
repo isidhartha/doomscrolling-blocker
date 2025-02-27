@@ -843,3 +843,7 @@ All notable changes are documented here.
 - fix: correct confidence threshold comparison operator
 
 
+### 2024-04-07
+- refactor: extract phone detection logic from main loop
+
+
