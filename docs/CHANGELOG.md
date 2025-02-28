@@ -847,3 +847,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2024-04-10
+- chore: bump fastapi to 0.115.x
+
+
