@@ -855,3 +855,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2024-04-17
+- fix: fix alert threshold comparison for downside moves
+
+
