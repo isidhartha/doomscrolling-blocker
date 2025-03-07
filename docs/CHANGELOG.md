@@ -859,3 +859,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2024-04-30
+- feat: add Docker Compose for local development setup
+
+
