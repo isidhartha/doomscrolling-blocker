@@ -863,3 +863,7 @@ All notable changes are documented here.
 - feat: add Docker Compose for local development setup
 
 
+### 2024-05-02
+- feat: add browser-based rickroll alert dispatch via webbrowser
+
+
