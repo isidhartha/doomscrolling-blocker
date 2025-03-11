@@ -867,3 +867,7 @@ All notable changes are documented here.
 - feat: add browser-based rickroll alert dispatch via webbrowser
 
 
+### 2024-05-04
+- chore: update requirements.txt with current versions
+
+
