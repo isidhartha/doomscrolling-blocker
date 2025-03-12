@@ -871,3 +871,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with current versions
 
 
+### 2024-05-04
+- docs: add model download instructions to setup guide
+
+
