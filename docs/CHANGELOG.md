@@ -875,3 +875,7 @@ All notable changes are documented here.
 - docs: add model download instructions to setup guide
 
 
+### 2024-05-09
+- fix: handle network error during webcam frame read
+
+
