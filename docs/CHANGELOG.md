@@ -879,3 +879,7 @@ All notable changes are documented here.
 - fix: handle network error during webcam frame read
 
 
+### 2024-05-11
+- feat: implement graceful shutdown on Q keypress
+
+
