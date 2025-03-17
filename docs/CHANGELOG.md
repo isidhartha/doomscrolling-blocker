@@ -883,3 +883,7 @@ All notable changes are documented here.
 - feat: implement graceful shutdown on Q keypress
 
 
+### 2024-05-11
+- chore: update requirements.txt with current versions
+
+
