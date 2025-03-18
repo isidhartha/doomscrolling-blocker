@@ -887,3 +887,7 @@ All notable changes are documented here.
 - chore: update requirements.txt with current versions
 
 
+### 2024-05-15
+- feat: add Twilio SMS alert dispatch on condition trigger
+
+
