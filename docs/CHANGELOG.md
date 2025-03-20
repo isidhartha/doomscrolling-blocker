@@ -891,3 +891,7 @@ All notable changes are documented here.
 - feat: add Twilio SMS alert dispatch on condition trigger
 
 
+### 2024-05-16
+- feat: add graceful retry on yFinance API failure
+
+
