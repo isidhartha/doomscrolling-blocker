@@ -895,3 +895,7 @@ All notable changes are documented here.
 - feat: add graceful retry on yFinance API failure
 
 
+### 2024-05-17
+- style: format all files with black
+
+
