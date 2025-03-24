@@ -899,3 +899,7 @@ All notable changes are documented here.
 - style: format all files with black
 
 
+### 2024-05-20
+- feat: implement MobileNet SSD phone detection via OpenCV DNN
+
+
