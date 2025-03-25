@@ -903,3 +903,7 @@ All notable changes are documented here.
 - feat: implement MobileNet SSD phone detection via OpenCV DNN
 
 
+### 2024-05-22
+- feat: implement COCO class 77 phone classifier detection
+
+
