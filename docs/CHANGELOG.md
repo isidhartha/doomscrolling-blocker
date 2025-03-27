@@ -907,3 +907,7 @@ All notable changes are documented here.
 - feat: implement COCO class 77 phone classifier detection
 
 
+### 2024-05-22
+- fix: correct timezone handling for alert timestamps
+
+
