@@ -911,3 +911,7 @@ All notable changes are documented here.
 - fix: correct timezone handling for alert timestamps
 
 
+### 2024-06-04
+- feat: add concurrent ticker fetching with asyncio gather
+
+
