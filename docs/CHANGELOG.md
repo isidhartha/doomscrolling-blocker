@@ -923,3 +923,7 @@ All notable changes are documented here.
 - test: add unit tests for phone detection confidence logic
 
 
+### 2024-06-22
+- fix: resolve Twilio auth token validation error
+
+
