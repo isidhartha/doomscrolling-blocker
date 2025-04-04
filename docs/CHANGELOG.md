@@ -927,3 +927,7 @@ All notable changes are documented here.
 - fix: resolve Twilio auth token validation error
 
 
+### 2024-06-25
+- perf: implement async yFinance fetching for concurrent tickers
+
+
