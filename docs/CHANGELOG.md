@@ -931,3 +931,7 @@ All notable changes are documented here.
 - perf: implement async yFinance fetching for concurrent tickers
 
 
+### 2024-06-25
+- feat: implement cooldown timer between consecutive alert triggers
+
+
