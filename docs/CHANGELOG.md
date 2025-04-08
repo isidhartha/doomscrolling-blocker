@@ -935,3 +935,7 @@ All notable changes are documented here.
 - feat: implement cooldown timer between consecutive alert triggers
 
 
+### 2024-06-28
+- chore: add .gitignore entries for SQLite database files
+
+
