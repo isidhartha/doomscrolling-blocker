@@ -939,3 +939,7 @@ All notable changes are documented here.
 - chore: add .gitignore entries for SQLite database files
 
 
+### 2024-06-29
+- refactor: move all configuration to environment variables
+
+
