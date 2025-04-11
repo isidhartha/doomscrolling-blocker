@@ -943,3 +943,7 @@ All notable changes are documented here.
 - refactor: move all configuration to environment variables
 
 
+### 2024-07-02
+- feat: implement real-time price dashboard endpoint
+
+
