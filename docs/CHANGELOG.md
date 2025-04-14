@@ -947,3 +947,7 @@ All notable changes are documented here.
 - feat: implement real-time price dashboard endpoint
 
 
+### 2024-07-03
+- fix: resolve Twilio auth token validation error
+
+
