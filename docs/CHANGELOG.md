@@ -951,3 +951,7 @@ All notable changes are documented here.
 - fix: resolve Twilio auth token validation error
 
 
+### 2024-07-09
+- chore: add pre-commit hooks for black and ruff
+
+
