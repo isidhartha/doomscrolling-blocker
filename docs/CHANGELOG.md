@@ -975,3 +975,7 @@ All notable changes are documented here.
 - feat: add model download helper script for weights
 
 
+### 2024-07-23
+- fix: correct timezone handling for alert timestamps
+
+
