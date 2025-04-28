@@ -979,3 +979,7 @@ All notable changes are documented here.
 - fix: correct timezone handling for alert timestamps
 
 
+### 2024-07-29
+- refactor: extract OpenAI agent setup into factory function
+
+
