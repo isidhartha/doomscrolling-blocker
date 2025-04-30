@@ -983,3 +983,7 @@ All notable changes are documented here.
 - refactor: extract OpenAI agent setup into factory function
 
 
+### 2024-07-30
+- feat: implement MobileNet SSD phone detection via OpenCV DNN
+
+
