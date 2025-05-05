@@ -991,3 +991,7 @@ All notable changes are documented here.
 - fix: handle OpenAI API timeout in analysis agent
 
 
+### 2024-07-31
+- fix: handle webcam open failure with descriptive error
+
+
