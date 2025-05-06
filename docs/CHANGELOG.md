@@ -995,3 +995,7 @@ All notable changes are documented here.
 - fix: handle webcam open failure with descriptive error
 
 
+### 2024-08-01
+- fix: fix cooldown timer reset logic after detection
+
+
