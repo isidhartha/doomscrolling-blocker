@@ -999,3 +999,7 @@ All notable changes are documented here.
 - fix: fix cooldown timer reset logic after detection
 
 
+### 2024-08-05
+- fix: handle missing model files with graceful fallback
+
+
