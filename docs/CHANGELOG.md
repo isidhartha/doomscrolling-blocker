@@ -1003,3 +1003,7 @@ All notable changes are documented here.
 - fix: handle missing model files with graceful fallback
 
 
+### 2024-08-07
+- feat: add detection confidence threshold configuration
+
+
