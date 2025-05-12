@@ -1007,3 +1007,7 @@ All notable changes are documented here.
 - feat: add detection confidence threshold configuration
 
 
+### 2024-08-07
+- feat: implement alert history endpoint with date filtering
+
+
