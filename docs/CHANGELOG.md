@@ -1011,3 +1011,7 @@ All notable changes are documented here.
 - feat: implement alert history endpoint with date filtering
 
 
+### 2024-08-08
+- refactor: consolidate database operations into repository
+
+
