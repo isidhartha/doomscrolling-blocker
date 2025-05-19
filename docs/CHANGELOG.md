@@ -1019,3 +1019,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2024-08-13
+- feat: add detection confidence threshold configuration
+
+
