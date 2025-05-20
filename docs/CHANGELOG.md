@@ -1023,3 +1023,7 @@ All notable changes are documented here.
 - feat: add detection confidence threshold configuration
 
 
+### 2024-08-14
+- feat: add camera index configuration via environment variable
+
+
