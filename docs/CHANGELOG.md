@@ -1027,3 +1027,7 @@ All notable changes are documented here.
 - feat: add camera index configuration via environment variable
 
 
+### 2024-08-26
+- test: add unit tests for phone detection confidence logic
+
+
