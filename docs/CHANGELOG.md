@@ -1031,3 +1031,7 @@ All notable changes are documented here.
 - test: add unit tests for phone detection confidence logic
 
 
+### 2024-08-28
+- feat: add watchlist symbol management via REST API
+
+
