@@ -1035,3 +1035,7 @@ All notable changes are documented here.
 - feat: add watchlist symbol management via REST API
 
 
+### 2024-09-05
+- refactor: move all configuration to environment variables
+
+
