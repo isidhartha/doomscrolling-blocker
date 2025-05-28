@@ -1039,3 +1039,7 @@ All notable changes are documented here.
 - refactor: move all configuration to environment variables
 
 
+### 2024-09-08
+- test: add cooldown timer unit tests
+
+
