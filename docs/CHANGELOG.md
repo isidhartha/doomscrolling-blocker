@@ -1043,3 +1043,7 @@ All notable changes are documented here.
 - test: add cooldown timer unit tests
 
 
+### 2024-09-26
+- refactor: separate alert dispatch from detection pipeline
+
+
