@@ -1047,3 +1047,7 @@ All notable changes are documented here.
 - refactor: separate alert dispatch from detection pipeline
 
 
+### 2024-10-01
+- feat: implement yFinance ticker price polling loop
+
+
