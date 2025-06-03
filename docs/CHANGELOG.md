@@ -1051,3 +1051,7 @@ All notable changes are documented here.
 - feat: implement yFinance ticker price polling loop
 
 
+### 2024-10-03
+- fix: correct confidence threshold comparison operator
+
+
