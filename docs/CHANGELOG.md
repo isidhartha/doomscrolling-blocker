@@ -1055,3 +1055,7 @@ All notable changes are documented here.
 - fix: correct confidence threshold comparison operator
 
 
+### 2024-10-10
+- fix: resolve CORS preflight failure on dashboard endpoint
+
+
