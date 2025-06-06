@@ -1059,3 +1059,7 @@ All notable changes are documented here.
 - fix: resolve CORS preflight failure on dashboard endpoint
 
 
+### 2024-10-16
+- feat: add watchlist symbol management via REST API
+
+
