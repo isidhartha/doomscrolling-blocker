@@ -1063,3 +1063,7 @@ All notable changes are documented here.
 - feat: add watchlist symbol management via REST API
 
 
+### 2024-10-17
+- docs: add data flow diagram for agent architecture
+
+
