@@ -1067,3 +1067,7 @@ All notable changes are documented here.
 - docs: add data flow diagram for agent architecture
 
 
+### 2024-10-21
+- fix: handle webcam open failure with descriptive error
+
+
