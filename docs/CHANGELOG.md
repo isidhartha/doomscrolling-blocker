@@ -1071,3 +1071,7 @@ All notable changes are documented here.
 - fix: handle webcam open failure with descriptive error
 
 
+### 2024-10-23
+- test: add mock-based test for Twilio SMS dispatch
+
+
