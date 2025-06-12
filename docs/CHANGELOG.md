@@ -1075,3 +1075,7 @@ All notable changes are documented here.
 - test: add mock-based test for Twilio SMS dispatch
 
 
+### 2024-10-24
+- test: add unit tests for phone detection confidence logic
+
+
