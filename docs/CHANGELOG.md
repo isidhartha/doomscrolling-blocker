@@ -1079,3 +1079,7 @@ All notable changes are documented here.
 - test: add unit tests for phone detection confidence logic
 
 
+### 2024-11-02
+- feat: implement structured JSON logging throughout
+
+
