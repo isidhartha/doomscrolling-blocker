@@ -1083,3 +1083,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging throughout
 
 
+### 2024-11-04
+- fix: fix SQLite connection handling in async context
+
+
