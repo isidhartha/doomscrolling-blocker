@@ -1099,3 +1099,7 @@ All notable changes are documented here.
 - feat: add concurrent ticker fetching with asyncio gather
 
 
+### 2024-11-24
+- feat: implement structured JSON logging throughout
+
+
