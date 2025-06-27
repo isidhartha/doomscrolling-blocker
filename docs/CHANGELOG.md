@@ -1107,3 +1107,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2024-11-29
+- fix: fix yFinance rate limit with exponential backoff
+
+
