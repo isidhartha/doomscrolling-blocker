@@ -1111,3 +1111,7 @@ All notable changes are documented here.
 - fix: fix yFinance rate limit with exponential backoff
 
 
+### 2024-12-05
+- feat: implement detection confidence overlay on live frame
+
+
