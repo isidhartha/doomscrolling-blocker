@@ -1115,3 +1115,7 @@ All notable changes are documented here.
 - feat: implement detection confidence overlay on live frame
 
 
+### 2024-12-06
+- fix: fix alert threshold comparison for downside moves
+
+
