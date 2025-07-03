@@ -1119,3 +1119,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2024-12-09
+- docs: document camera index configuration in README
+
+
