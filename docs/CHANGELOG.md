@@ -1123,3 +1123,7 @@ All notable changes are documented here.
 - docs: document camera index configuration in README
 
 
+### 2024-12-15
+- fix: correct timezone handling for alert timestamps
+
+
