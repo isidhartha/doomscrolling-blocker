@@ -1127,3 +1127,7 @@ All notable changes are documented here.
 - fix: correct timezone handling for alert timestamps
 
 
+### 2024-12-24
+- chore: add .gitignore entries for SQLite database files
+
+
