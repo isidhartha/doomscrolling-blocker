@@ -1131,3 +1131,7 @@ All notable changes are documented here.
 - chore: add .gitignore entries for SQLite database files
 
 
+### 2024-12-24
+- feat: add camera index configuration via environment variable
+
+
