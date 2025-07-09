@@ -1135,3 +1135,7 @@ All notable changes are documented here.
 - feat: add camera index configuration via environment variable
 
 
+### 2024-12-31
+- refactor: consolidate database operations into repository
+
+
