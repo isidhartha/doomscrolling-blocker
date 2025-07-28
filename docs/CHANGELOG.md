@@ -1139,3 +1139,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2025-01-05
+- feat: implement detection confidence overlay on live frame
+
+
