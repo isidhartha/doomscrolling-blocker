@@ -1143,3 +1143,7 @@ All notable changes are documented here.
 - feat: implement detection confidence overlay on live frame
 
 
+### 2025-01-14
+- fix: handle empty watchlist gracefully on startup
+
+
