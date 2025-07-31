@@ -1147,3 +1147,7 @@ All notable changes are documented here.
 - fix: handle empty watchlist gracefully on startup
 
 
+### 2025-01-15
+- fix: fix SQLite connection handling in async context
+
+
