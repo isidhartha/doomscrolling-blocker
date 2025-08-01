@@ -1151,3 +1151,7 @@ All notable changes are documented here.
 - fix: fix SQLite connection handling in async context
 
 
+### 2025-02-01
+- perf: implement async yFinance fetching for concurrent tickers
+
+
