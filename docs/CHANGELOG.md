@@ -1155,3 +1155,7 @@ All notable changes are documented here.
 - perf: implement async yFinance fetching for concurrent tickers
 
 
+### 2025-02-04
+- fix: resolve CORS preflight failure on dashboard endpoint
+
+
