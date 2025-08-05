@@ -1159,3 +1159,7 @@ All notable changes are documented here.
 - fix: resolve CORS preflight failure on dashboard endpoint
 
 
+### 2025-02-06
+- fix: resolve APScheduler job duplication on hot restart
+
+
