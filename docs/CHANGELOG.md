@@ -1163,3 +1163,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2025-02-08
+- feat: implement cooldown timer between consecutive alert triggers
+
+
