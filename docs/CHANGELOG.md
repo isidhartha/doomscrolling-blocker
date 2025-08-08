@@ -1167,3 +1167,7 @@ All notable changes are documented here.
 - feat: implement cooldown timer between consecutive alert triggers
 
 
+### 2025-02-09
+- fix: fix cooldown timer reset logic after detection
+
+
