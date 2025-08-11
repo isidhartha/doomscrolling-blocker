@@ -1171,3 +1171,7 @@ All notable changes are documented here.
 - fix: fix cooldown timer reset logic after detection
 
 
+### 2025-02-14
+- perf: cache OpenCV DNN model to avoid reloading per frame
+
+
