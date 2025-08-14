@@ -1179,3 +1179,7 @@ All notable changes are documented here.
 - fix: handle webcam open failure with descriptive error
 
 
+### 2025-02-20
+- perf: cache OpenCV DNN model to avoid reloading per frame
+
+
