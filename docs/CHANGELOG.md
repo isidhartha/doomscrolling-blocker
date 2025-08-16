@@ -1183,3 +1183,7 @@ All notable changes are documented here.
 - perf: cache OpenCV DNN model to avoid reloading per frame
 
 
+### 2025-02-24
+- feat: add Twilio SMS alert dispatch on condition trigger
+
+
