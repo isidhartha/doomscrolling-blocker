@@ -1187,3 +1187,7 @@ All notable changes are documented here.
 - feat: add Twilio SMS alert dispatch on condition trigger
 
 
+### 2025-02-26
+- fix: resolve APScheduler job duplication on hot restart
+
+
