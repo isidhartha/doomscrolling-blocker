@@ -1191,3 +1191,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2025-03-03
+- fix: fix SQLite connection handling in async context
+
+
