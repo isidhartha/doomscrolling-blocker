@@ -1195,3 +1195,7 @@ All notable changes are documented here.
 - fix: fix SQLite connection handling in async context
 
 
+### 2025-03-04
+- feat: add Docker Compose for local development setup
+
+
