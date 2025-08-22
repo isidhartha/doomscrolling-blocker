@@ -1199,3 +1199,7 @@ All notable changes are documented here.
 - feat: add Docker Compose for local development setup
 
 
+### 2025-03-04
+- fix: handle network error during webcam frame read
+
+
