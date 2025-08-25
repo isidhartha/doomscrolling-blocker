@@ -1203,3 +1203,7 @@ All notable changes are documented here.
 - fix: handle network error during webcam frame read
 
 
+### 2025-03-17
+- docs: update .env.example with all required variables
+
+
