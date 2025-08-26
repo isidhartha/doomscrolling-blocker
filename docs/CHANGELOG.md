@@ -1207,3 +1207,7 @@ All notable changes are documented here.
 - docs: update .env.example with all required variables
 
 
+### 2025-03-21
+- refactor: extract watchlist management into service class
+
+
