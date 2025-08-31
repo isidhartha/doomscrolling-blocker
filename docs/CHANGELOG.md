@@ -1215,3 +1215,7 @@ All notable changes are documented here.
 - fix: handle empty watchlist gracefully on startup
 
 
+### 2025-03-23
+- docs: document alert threshold configuration options
+
+
