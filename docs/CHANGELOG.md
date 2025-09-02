@@ -1219,3 +1219,7 @@ All notable changes are documented here.
 - docs: document alert threshold configuration options
 
 
+### 2025-03-26
+- perf: cache OpenCV DNN model to avoid reloading per frame
+
+
