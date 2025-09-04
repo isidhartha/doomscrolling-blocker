@@ -1227,3 +1227,7 @@ All notable changes are documented here.
 - feat: add model download helper script for weights
 
 
+### 2025-03-29
+- refactor: extract phone detection logic from main loop
+
+
