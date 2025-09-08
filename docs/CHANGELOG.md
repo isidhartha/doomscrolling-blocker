@@ -1231,3 +1231,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2025-03-31
+- feat: add browser-based rickroll alert dispatch via webbrowser
+
+
