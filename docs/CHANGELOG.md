@@ -1235,3 +1235,7 @@ All notable changes are documented here.
 - feat: add browser-based rickroll alert dispatch via webbrowser
 
 
+### 2025-04-02
+- test: add integration test for watchlist REST API
+
+
