@@ -1239,3 +1239,7 @@ All notable changes are documented here.
 - test: add integration test for watchlist REST API
 
 
+### 2025-04-03
+- style: fix ruff lint violations
+
+
