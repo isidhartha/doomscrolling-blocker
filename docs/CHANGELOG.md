@@ -1243,3 +1243,7 @@ All notable changes are documented here.
 - style: fix ruff lint violations
 
 
+### 2025-04-03
+- feat: implement OpenAI agent for price anomaly analysis
+
+
