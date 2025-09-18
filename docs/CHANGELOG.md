@@ -1255,3 +1255,7 @@ All notable changes are documented here.
 - feat: add concurrent ticker fetching with asyncio gather
 
 
+### 2025-04-12
+- test: add mock-based test for Twilio SMS dispatch
+
+
