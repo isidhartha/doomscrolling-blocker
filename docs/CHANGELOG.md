@@ -1259,3 +1259,7 @@ All notable changes are documented here.
 - test: add mock-based test for Twilio SMS dispatch
 
 
+### 2025-04-17
+- feat: add graceful retry on yFinance API failure
+
+
