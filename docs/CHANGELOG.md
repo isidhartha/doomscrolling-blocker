@@ -1263,3 +1263,7 @@ All notable changes are documented here.
 - feat: add graceful retry on yFinance API failure
 
 
+### 2025-04-18
+- fix: fix SQLite connection handling in async context
+
+
