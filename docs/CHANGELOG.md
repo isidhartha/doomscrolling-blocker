@@ -1267,3 +1267,7 @@ All notable changes are documented here.
 - fix: fix SQLite connection handling in async context
 
 
+### 2025-04-21
+- fix: resolve OpenCV display crash on Windows 11
+
+
