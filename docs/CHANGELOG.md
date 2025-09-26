@@ -1271,3 +1271,7 @@ All notable changes are documented here.
 - fix: resolve OpenCV display crash on Windows 11
 
 
+### 2025-05-02
+- refactor: extract phone detection logic from main loop
+
+
