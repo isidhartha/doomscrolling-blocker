@@ -1275,3 +1275,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2025-05-02
+- feat: implement yFinance ticker price polling loop
+
+
