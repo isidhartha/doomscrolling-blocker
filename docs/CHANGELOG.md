@@ -1279,3 +1279,7 @@ All notable changes are documented here.
 - feat: implement yFinance ticker price polling loop
 
 
+### 2025-05-11
+- feat: add FastAPI health and watchlist endpoints
+
+
