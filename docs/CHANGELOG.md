@@ -1283,3 +1283,7 @@ All notable changes are documented here.
 - feat: add FastAPI health and watchlist endpoints
 
 
+### 2025-05-11
+- test: add integration test for watchlist REST API
+
+
