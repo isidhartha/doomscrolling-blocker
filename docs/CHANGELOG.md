@@ -1295,3 +1295,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2025-05-15
+- fix: resolve CORS preflight failure on dashboard endpoint
+
+
