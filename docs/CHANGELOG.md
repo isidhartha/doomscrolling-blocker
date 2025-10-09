@@ -1299,3 +1299,7 @@ All notable changes are documented here.
 - fix: resolve CORS preflight failure on dashboard endpoint
 
 
+### 2025-05-15
+- feat: implement detection confidence overlay on live frame
+
+
