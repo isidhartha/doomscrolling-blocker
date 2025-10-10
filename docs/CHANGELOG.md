@@ -1303,3 +1303,7 @@ All notable changes are documented here.
 - feat: implement detection confidence overlay on live frame
 
 
+### 2025-05-16
+- feat: add detection confidence threshold configuration
+
+
