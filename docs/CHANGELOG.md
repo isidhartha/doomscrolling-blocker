@@ -1307,3 +1307,7 @@ All notable changes are documented here.
 - feat: add detection confidence threshold configuration
 
 
+### 2025-05-19
+- feat: add model download helper script for weights
+
+
