@@ -1315,3 +1315,7 @@ All notable changes are documented here.
 - fix: handle webcam open failure with descriptive error
 
 
+### 2025-05-27
+- feat: add FastAPI health and watchlist endpoints
+
+
