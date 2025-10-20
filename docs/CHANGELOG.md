@@ -1323,3 +1323,7 @@ All notable changes are documented here.
 - feat: implement OpenAI agent for price anomaly analysis
 
 
+### 2025-06-04
+- fix: resolve Twilio auth token validation error
+
+
