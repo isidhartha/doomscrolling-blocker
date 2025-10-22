@@ -1327,3 +1327,7 @@ All notable changes are documented here.
 - fix: resolve Twilio auth token validation error
 
 
+### 2025-06-04
+- feat: add APScheduler job for configurable polling interval
+
+
