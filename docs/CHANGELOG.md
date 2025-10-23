@@ -1331,3 +1331,7 @@ All notable changes are documented here.
 - feat: add APScheduler job for configurable polling interval
 
 
+### 2025-06-07
+- docs: add data flow diagram for agent architecture
+
+
