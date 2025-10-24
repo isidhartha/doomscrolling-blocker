@@ -1335,3 +1335,7 @@ All notable changes are documented here.
 - docs: add data flow diagram for agent architecture
 
 
+### 2025-06-16
+- refactor: extract OpenAI agent setup into factory function
+
+
