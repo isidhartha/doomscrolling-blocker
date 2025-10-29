@@ -1343,3 +1343,7 @@ All notable changes are documented here.
 - feat: add APScheduler job for configurable polling interval
 
 
+### 2025-06-20
+- feat: add FastAPI health and watchlist endpoints
+
+
