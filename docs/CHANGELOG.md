@@ -1347,3 +1347,7 @@ All notable changes are documented here.
 - feat: add FastAPI health and watchlist endpoints
 
 
+### 2025-06-20
+- refactor: consolidate database operations into repository
+
+
