@@ -1351,3 +1351,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2025-06-23
+- fix: resolve OpenCV display crash on Windows 11
+
+
