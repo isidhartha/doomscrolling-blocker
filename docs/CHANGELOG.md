@@ -1355,3 +1355,7 @@ All notable changes are documented here.
 - fix: resolve OpenCV display crash on Windows 11
 
 
+### 2025-06-25
+- test: add unit tests for phone detection confidence logic
+
+
