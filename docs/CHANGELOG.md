@@ -1359,3 +1359,7 @@ All notable changes are documented here.
 - test: add unit tests for phone detection confidence logic
 
 
+### 2025-07-01
+- feat: add price change percentage threshold alerting
+
+
