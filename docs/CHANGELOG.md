@@ -1363,3 +1363,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2025-07-07
+- chore: add .gitignore entries for SQLite database files
+
+
