@@ -1367,3 +1367,7 @@ All notable changes are documented here.
 - chore: add .gitignore entries for SQLite database files
 
 
+### 2025-07-08
+- fix: handle network error during webcam frame read
+
+
