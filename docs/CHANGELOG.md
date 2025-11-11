@@ -1371,3 +1371,7 @@ All notable changes are documented here.
 - fix: handle network error during webcam frame read
 
 
+### 2025-07-17
+- refactor: extract phone detection logic from main loop
+
+
