@@ -1375,3 +1375,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2025-07-18
+- feat: implement OpenAI agent for price anomaly analysis
+
+
