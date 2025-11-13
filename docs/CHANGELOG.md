@@ -1379,3 +1379,7 @@ All notable changes are documented here.
 - feat: implement OpenAI agent for price anomaly analysis
 
 
+### 2025-07-22
+- feat: add Twilio SMS alert dispatch on condition trigger
+
+
