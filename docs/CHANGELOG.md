@@ -1383,3 +1383,7 @@ All notable changes are documented here.
 - feat: add Twilio SMS alert dispatch on condition trigger
 
 
+### 2025-07-23
+- test: add cooldown timer unit tests
+
+
