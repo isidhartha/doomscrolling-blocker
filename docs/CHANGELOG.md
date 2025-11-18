@@ -1387,3 +1387,7 @@ All notable changes are documented here.
 - test: add cooldown timer unit tests
 
 
+### 2025-07-24
+- feat: implement graceful shutdown on Q keypress
+
+
