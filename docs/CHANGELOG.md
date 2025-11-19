@@ -1391,3 +1391,7 @@ All notable changes are documented here.
 - feat: implement graceful shutdown on Q keypress
 
 
+### 2025-08-06
+- fix: resolve CORS preflight failure on dashboard endpoint
+
+
