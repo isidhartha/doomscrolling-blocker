@@ -1399,3 +1399,7 @@ All notable changes are documented here.
 - fix: fix cooldown timer reset logic after detection
 
 
+### 2025-08-07
+- feat: implement graceful shutdown on Q keypress
+
+
