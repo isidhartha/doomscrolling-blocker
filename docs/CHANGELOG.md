@@ -1403,3 +1403,7 @@ All notable changes are documented here.
 - feat: implement graceful shutdown on Q keypress
 
 
+### 2025-08-07
+- feat: add Twilio SMS alert dispatch on condition trigger
+
+
