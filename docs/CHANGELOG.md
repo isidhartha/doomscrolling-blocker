@@ -1407,3 +1407,7 @@ All notable changes are documented here.
 - feat: add Twilio SMS alert dispatch on condition trigger
 
 
+### 2025-08-16
+- refactor: extract OpenAI agent setup into factory function
+
+
