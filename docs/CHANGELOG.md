@@ -1411,3 +1411,7 @@ All notable changes are documented here.
 - refactor: extract OpenAI agent setup into factory function
 
 
+### 2025-08-19
+- docs: document camera index configuration in README
+
+
