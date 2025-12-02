@@ -1415,3 +1415,7 @@ All notable changes are documented here.
 - docs: document camera index configuration in README
 
 
+### 2025-08-20
+- fix: resolve OpenCV display crash on Windows 11
+
+
