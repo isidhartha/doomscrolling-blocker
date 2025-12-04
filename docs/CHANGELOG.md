@@ -1419,3 +1419,7 @@ All notable changes are documented here.
 - fix: resolve OpenCV display crash on Windows 11
 
 
+### 2025-08-22
+- perf: implement async yFinance fetching for concurrent tickers
+
+
