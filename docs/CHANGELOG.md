@@ -1423,3 +1423,7 @@ All notable changes are documented here.
 - perf: implement async yFinance fetching for concurrent tickers
 
 
+### 2025-08-22
+- fix: handle network error during webcam frame read
+
+
