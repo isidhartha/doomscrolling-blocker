@@ -1431,3 +1431,7 @@ All notable changes are documented here.
 - style: normalise import ordering
 
 
+### 2025-08-26
+- feat: add APScheduler job for configurable polling interval
+
+
