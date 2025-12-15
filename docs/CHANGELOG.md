@@ -1439,3 +1439,7 @@ All notable changes are documented here.
 - test: add unit tests for phone detection confidence logic
 
 
+### 2025-08-28
+- fix: correct confidence threshold comparison operator
+
+
