@@ -1443,3 +1443,7 @@ All notable changes are documented here.
 - fix: correct confidence threshold comparison operator
 
 
+### 2025-08-28
+- feat: implement detection confidence overlay on live frame
+
+
