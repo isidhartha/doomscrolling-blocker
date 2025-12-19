@@ -1451,3 +1451,7 @@ All notable changes are documented here.
 - docs: add data flow diagram for agent architecture
 
 
+### 2025-09-02
+- feat: implement MobileNet SSD phone detection via OpenCV DNN
+
+
