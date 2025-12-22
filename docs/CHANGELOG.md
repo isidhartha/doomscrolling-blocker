@@ -1455,3 +1455,7 @@ All notable changes are documented here.
 - feat: implement MobileNet SSD phone detection via OpenCV DNN
 
 
+### 2025-09-10
+- feat: add concurrent ticker fetching with asyncio gather
+
+
