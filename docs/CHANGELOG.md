@@ -1463,3 +1463,7 @@ All notable changes are documented here.
 - feat: implement alert history endpoint with date filtering
 
 
+### 2025-10-04
+- perf: use connection pool for SQLite write operations
+
+
