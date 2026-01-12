@@ -1467,3 +1467,7 @@ All notable changes are documented here.
 - perf: use connection pool for SQLite write operations
 
 
+### 2025-10-08
+- feat: implement cooldown timer between consecutive alert triggers
+
+
