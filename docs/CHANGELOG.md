@@ -1471,3 +1471,7 @@ All notable changes are documented here.
 - feat: implement cooldown timer between consecutive alert triggers
 
 
+### 2025-10-12
+- style: fix ruff lint violations
+
+
