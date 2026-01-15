@@ -1475,3 +1475,7 @@ All notable changes are documented here.
 - style: fix ruff lint violations
 
 
+### 2025-10-14
+- fix: handle empty watchlist gracefully on startup
+
+
