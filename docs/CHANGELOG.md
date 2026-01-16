@@ -1479,3 +1479,7 @@ All notable changes are documented here.
 - fix: handle empty watchlist gracefully on startup
 
 
+### 2025-10-14
+- feat: implement COCO class 77 phone classifier detection
+
+
