@@ -1483,3 +1483,7 @@ All notable changes are documented here.
 - feat: implement COCO class 77 phone classifier detection
 
 
+### 2025-10-16
+- feat: add graceful retry on yFinance API failure
+
+
