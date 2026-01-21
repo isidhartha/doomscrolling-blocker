@@ -1491,3 +1491,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2025-10-20
+- feat: implement OpenAI agent for price anomaly analysis
+
+
