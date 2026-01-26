@@ -1499,3 +1499,7 @@ All notable changes are documented here.
 - chore: bump fastapi to 0.115.x
 
 
+### 2025-11-04
+- feat: implement structured JSON logging throughout
+
+
