@@ -1503,3 +1503,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging throughout
 
 
+### 2025-11-06
+- fix: handle webcam open failure with descriptive error
+
+
