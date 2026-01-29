@@ -1511,3 +1511,7 @@ All notable changes are documented here.
 - fix: resolve APScheduler job duplication on hot restart
 
 
+### 2025-11-12
+- feat: add Docker Compose for local development setup
+
+
