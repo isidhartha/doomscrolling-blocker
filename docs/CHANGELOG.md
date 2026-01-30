@@ -1515,3 +1515,7 @@ All notable changes are documented here.
 - feat: add Docker Compose for local development setup
 
 
+### 2025-11-12
+- fix: fix alert threshold comparison for downside moves
+
+
