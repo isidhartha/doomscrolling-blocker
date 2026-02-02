@@ -1519,3 +1519,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2025-11-13
+- refactor: consolidate database operations into repository
+
+
