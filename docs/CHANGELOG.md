@@ -1523,3 +1523,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2025-11-14
+- feat: implement yFinance ticker price polling loop
+
+
