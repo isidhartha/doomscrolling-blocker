@@ -1527,3 +1527,7 @@ All notable changes are documented here.
 - feat: implement yFinance ticker price polling loop
 
 
+### 2025-11-15
+- perf: use connection pool for SQLite write operations
+
+
