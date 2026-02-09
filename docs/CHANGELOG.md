@@ -1531,3 +1531,7 @@ All notable changes are documented here.
 - perf: use connection pool for SQLite write operations
 
 
+### 2025-11-20
+- fix: handle missing model files with graceful fallback
+
+
