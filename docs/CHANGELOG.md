@@ -1535,3 +1535,7 @@ All notable changes are documented here.
 - fix: handle missing model files with graceful fallback
 
 
+### 2025-11-21
+- feat: add concurrent ticker fetching with asyncio gather
+
+
