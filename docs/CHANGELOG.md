@@ -1539,3 +1539,7 @@ All notable changes are documented here.
 - feat: add concurrent ticker fetching with asyncio gather
 
 
+### 2025-11-22
+- feat: implement alert history endpoint with date filtering
+
+
