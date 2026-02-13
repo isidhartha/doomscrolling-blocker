@@ -1543,3 +1543,7 @@ All notable changes are documented here.
 - feat: implement alert history endpoint with date filtering
 
 
+### 2025-11-26
+- refactor: separate alert dispatch from detection pipeline
+
+
