@@ -1547,3 +1547,7 @@ All notable changes are documented here.
 - refactor: separate alert dispatch from detection pipeline
 
 
+### 2025-11-27
+- docs: document camera index configuration in README
+
+
