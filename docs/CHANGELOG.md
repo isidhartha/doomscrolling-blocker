@@ -1551,3 +1551,7 @@ All notable changes are documented here.
 - docs: document camera index configuration in README
 
 
+### 2025-11-29
+- fix: handle webcam open failure with descriptive error
+
+
