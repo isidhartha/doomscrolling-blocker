@@ -1555,3 +1555,7 @@ All notable changes are documented here.
 - fix: handle webcam open failure with descriptive error
 
 
+### 2025-12-01
+- feat: add concurrent ticker fetching with asyncio gather
+
+
