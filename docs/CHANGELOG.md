@@ -1559,3 +1559,7 @@ All notable changes are documented here.
 - feat: add concurrent ticker fetching with asyncio gather
 
 
+### 2025-12-08
+- style: fix ruff lint violations
+
+
