@@ -1563,3 +1563,7 @@ All notable changes are documented here.
 - style: fix ruff lint violations
 
 
+### 2025-12-11
+- feat: add OpenCV webcam capture loop with configurable index
+
+
