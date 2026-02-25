@@ -1567,3 +1567,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2025-12-11
+- perf: cache OpenCV DNN model to avoid reloading per frame
+
+
