@@ -1571,3 +1571,7 @@ All notable changes are documented here.
 - perf: cache OpenCV DNN model to avoid reloading per frame
 
 
+### 2025-12-11
+- feat: add price change percentage threshold alerting
+
+
