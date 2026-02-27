@@ -1575,3 +1575,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2025-12-15
+- fix: handle webcam open failure with descriptive error
+
+
