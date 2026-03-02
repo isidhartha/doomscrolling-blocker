@@ -1579,3 +1579,7 @@ All notable changes are documented here.
 - fix: handle webcam open failure with descriptive error
 
 
+### 2025-12-18
+- feat: implement cooldown timer between consecutive alert triggers
+
+
