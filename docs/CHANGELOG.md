@@ -1583,3 +1583,7 @@ All notable changes are documented here.
 - feat: implement cooldown timer between consecutive alert triggers
 
 
+### 2025-12-19
+- docs: update .env.example with all required variables
+
+
