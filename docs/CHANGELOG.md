@@ -1587,3 +1587,7 @@ All notable changes are documented here.
 - docs: update .env.example with all required variables
 
 
+### 2025-12-27
+- feat: implement COCO class 77 phone classifier detection
+
+
