@@ -1591,3 +1591,7 @@ All notable changes are documented here.
 - feat: implement COCO class 77 phone classifier detection
 
 
+### 2025-12-29
+- feat: add OpenCV webcam capture loop with configurable index
+
+
