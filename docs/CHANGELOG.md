@@ -1595,3 +1595,7 @@ All notable changes are documented here.
 - feat: add OpenCV webcam capture loop with configurable index
 
 
+### 2025-12-31
+- feat: implement structured JSON logging throughout
+
+
