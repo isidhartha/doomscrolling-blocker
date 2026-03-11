@@ -1599,3 +1599,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging throughout
 
 
+### 2026-01-01
+- fix: resolve OpenCV display crash on Windows 11
+
+
