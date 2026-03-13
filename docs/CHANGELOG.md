@@ -1603,3 +1603,7 @@ All notable changes are documented here.
 - fix: resolve OpenCV display crash on Windows 11
 
 
+### 2026-01-04
+- docs: update .env.example with all required variables
+
+
