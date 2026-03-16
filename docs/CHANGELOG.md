@@ -1607,3 +1607,7 @@ All notable changes are documented here.
 - docs: update .env.example with all required variables
 
 
+### 2026-01-09
+- chore: bump fastapi to 0.115.x
+
+
