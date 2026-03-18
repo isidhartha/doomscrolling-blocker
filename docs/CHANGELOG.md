@@ -1611,3 +1611,7 @@ All notable changes are documented here.
 - chore: bump fastapi to 0.115.x
 
 
+### 2026-01-12
+- perf: implement async yFinance fetching for concurrent tickers
+
+
