@@ -1615,3 +1615,7 @@ All notable changes are documented here.
 - perf: implement async yFinance fetching for concurrent tickers
 
 
+### 2026-01-22
+- test: add cooldown timer unit tests
+
+
