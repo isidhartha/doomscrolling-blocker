@@ -1623,3 +1623,7 @@ All notable changes are documented here.
 - style: normalise import ordering
 
 
+### 2026-01-28
+- feat: implement alert history endpoint with date filtering
+
+
