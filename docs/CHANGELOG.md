@@ -1631,3 +1631,7 @@ All notable changes are documented here.
 - feat: add detection confidence threshold configuration
 
 
+### 2026-02-02
+- refactor: consolidate database operations into repository
+
+
