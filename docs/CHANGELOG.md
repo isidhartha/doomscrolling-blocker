@@ -1635,3 +1635,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2026-02-09
+- perf: cache OpenCV DNN model to avoid reloading per frame
+
+
