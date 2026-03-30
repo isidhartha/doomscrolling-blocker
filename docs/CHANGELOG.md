@@ -1639,3 +1639,7 @@ All notable changes are documented here.
 - perf: cache OpenCV DNN model to avoid reloading per frame
 
 
+### 2026-02-13
+- fix: fix alert threshold comparison for downside moves
+
+
