@@ -1643,3 +1643,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2026-02-18
+- feat: implement COCO class 77 phone classifier detection
+
+
