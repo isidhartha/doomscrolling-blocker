@@ -1647,3 +1647,7 @@ All notable changes are documented here.
 - feat: implement COCO class 77 phone classifier detection
 
 
+### 2026-02-22
+- feat: add Twilio SMS alert dispatch on condition trigger
+
+
