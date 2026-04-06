@@ -1655,3 +1655,7 @@ All notable changes are documented here.
 - feat: add graceful retry on yFinance API failure
 
 
+### 2026-02-23
+- fix: handle network error during webcam frame read
+
+
