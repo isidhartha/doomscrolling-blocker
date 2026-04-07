@@ -1659,3 +1659,7 @@ All notable changes are documented here.
 - fix: handle network error during webcam frame read
 
 
+### 2026-02-28
+- feat: add price change percentage threshold alerting
+
+
