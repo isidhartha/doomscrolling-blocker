@@ -1663,3 +1663,7 @@ All notable changes are documented here.
 - feat: add price change percentage threshold alerting
 
 
+### 2026-03-01
+- refactor: consolidate database operations into repository
+
+
