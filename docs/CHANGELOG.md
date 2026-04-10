@@ -1667,3 +1667,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2026-03-03
+- feat: add model download helper script for weights
+
+
