@@ -1671,3 +1671,7 @@ All notable changes are documented here.
 - feat: add model download helper script for weights
 
 
+### 2026-03-03
+- docs: document alert threshold configuration options
+
+
