@@ -1675,3 +1675,7 @@ All notable changes are documented here.
 - docs: document alert threshold configuration options
 
 
+### 2026-03-04
+- feat: implement detection confidence overlay on live frame
+
+
