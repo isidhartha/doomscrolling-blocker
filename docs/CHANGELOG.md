@@ -1679,3 +1679,7 @@ All notable changes are documented here.
 - feat: implement detection confidence overlay on live frame
 
 
+### 2026-03-07
+- fix: handle missing model files with graceful fallback
+
+
