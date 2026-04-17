@@ -1683,3 +1683,7 @@ All notable changes are documented here.
 - fix: handle missing model files with graceful fallback
 
 
+### 2026-03-09
+- refactor: consolidate database operations into repository
+
+
