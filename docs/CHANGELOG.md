@@ -1687,3 +1687,7 @@ All notable changes are documented here.
 - refactor: consolidate database operations into repository
 
 
+### 2026-03-21
+- style: format all files with black
+
+
