@@ -1691,3 +1691,7 @@ All notable changes are documented here.
 - style: format all files with black
 
 
+### 2026-03-24
+- fix: fix alert threshold comparison for downside moves
+
+
