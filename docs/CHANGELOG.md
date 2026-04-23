@@ -1695,3 +1695,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2026-03-24
+- docs: update docs/API.md with all watchlist endpoints
+
+
