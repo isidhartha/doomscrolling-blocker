@@ -1699,3 +1699,7 @@ All notable changes are documented here.
 - docs: update docs/API.md with all watchlist endpoints
 
 
+### 2026-03-30
+- docs: document camera index configuration in README
+
+
