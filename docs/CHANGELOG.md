@@ -1703,3 +1703,7 @@ All notable changes are documented here.
 - docs: document camera index configuration in README
 
 
+### 2026-03-30
+- docs: add model download instructions to setup guide
+
+
