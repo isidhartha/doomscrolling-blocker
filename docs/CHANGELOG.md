@@ -1707,3 +1707,7 @@ All notable changes are documented here.
 - docs: add model download instructions to setup guide
 
 
+### 2026-04-01
+- refactor: extract phone detection logic from main loop
+
+
