@@ -1711,3 +1711,7 @@ All notable changes are documented here.
 - refactor: extract phone detection logic from main loop
 
 
+### 2026-04-04
+- feat: implement real-time price dashboard endpoint
+
+
