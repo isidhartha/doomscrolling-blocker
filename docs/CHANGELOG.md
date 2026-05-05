@@ -1715,3 +1715,7 @@ All notable changes are documented here.
 - feat: implement real-time price dashboard endpoint
 
 
+### 2026-04-10
+- feat: implement SQLite persistence for alert history
+
+
