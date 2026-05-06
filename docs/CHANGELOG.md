@@ -1719,3 +1719,7 @@ All notable changes are documented here.
 - feat: implement SQLite persistence for alert history
 
 
+### 2026-04-13
+- feat: implement alert deduplication within cooldown window
+
+
