@@ -1727,3 +1727,7 @@ All notable changes are documented here.
 - style: normalise import ordering
 
 
+### 2026-04-17
+- feat: implement OpenAI agent for price anomaly analysis
+
+
