@@ -1731,3 +1731,7 @@ All notable changes are documented here.
 - feat: implement OpenAI agent for price anomaly analysis
 
 
+### 2026-04-21
+- docs: add data flow diagram for agent architecture
+
+
