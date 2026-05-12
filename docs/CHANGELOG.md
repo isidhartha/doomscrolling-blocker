@@ -1735,3 +1735,7 @@ All notable changes are documented here.
 - docs: add data flow diagram for agent architecture
 
 
+### 2026-04-23
+- fix: fix alert threshold comparison for downside moves
+
+
