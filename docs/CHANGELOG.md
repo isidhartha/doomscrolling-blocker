@@ -1739,3 +1739,7 @@ All notable changes are documented here.
 - fix: fix alert threshold comparison for downside moves
 
 
+### 2026-05-03
+- feat: implement real-time price dashboard endpoint
+
+
