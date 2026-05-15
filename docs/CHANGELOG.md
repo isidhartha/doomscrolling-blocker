@@ -1743,3 +1743,7 @@ All notable changes are documented here.
 - feat: implement real-time price dashboard endpoint
 
 
+### 2026-05-04
+- fix: correct price change percentage sign for falling assets
+
+
