@@ -1747,3 +1747,7 @@ All notable changes are documented here.
 - fix: correct price change percentage sign for falling assets
 
 
+### 2026-05-05
+- feat: implement alert deduplication within cooldown window
+
+
