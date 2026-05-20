@@ -1751,3 +1751,7 @@ All notable changes are documented here.
 - feat: implement alert deduplication within cooldown window
 
 
+### 2026-05-07
+- feat: add Docker Compose for local development setup
+
+
