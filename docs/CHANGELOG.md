@@ -1755,3 +1755,7 @@ All notable changes are documented here.
 - feat: add Docker Compose for local development setup
 
 
+### 2026-05-12
+- refactor: separate FastAPI routes into dedicated routers
+
+
