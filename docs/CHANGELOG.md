@@ -1759,3 +1759,7 @@ All notable changes are documented here.
 - refactor: separate FastAPI routes into dedicated routers
 
 
+### 2026-05-14
+- feat: implement OpenAI agent for price anomaly analysis
+
+
