@@ -1763,3 +1763,7 @@ All notable changes are documented here.
 - feat: implement OpenAI agent for price anomaly analysis
 
 
+### 2026-05-14
+- feat: implement real-time price dashboard endpoint
+
+
