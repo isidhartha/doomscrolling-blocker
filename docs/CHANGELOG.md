@@ -1767,3 +1767,7 @@ All notable changes are documented here.
 - feat: implement real-time price dashboard endpoint
 
 
+### 2026-05-19
+- refactor: extract watchlist management into service class
+
+
