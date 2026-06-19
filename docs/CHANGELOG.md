@@ -1771,3 +1771,7 @@ All notable changes are documented here.
 - refactor: extract watchlist management into service class
 
 
+### 2026-05-20
+- feat: add APScheduler job for configurable polling interval
+
+
