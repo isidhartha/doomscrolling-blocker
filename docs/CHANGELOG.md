@@ -1775,3 +1775,7 @@ All notable changes are documented here.
 - feat: add APScheduler job for configurable polling interval
 
 
+### 2026-05-21
+- refactor: extract OpenAI agent setup into factory function
+
+
