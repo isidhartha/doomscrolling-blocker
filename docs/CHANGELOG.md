@@ -1779,3 +1779,7 @@ All notable changes are documented here.
 - refactor: extract OpenAI agent setup into factory function
 
 
+### 2026-06-16
+- fix: fix cooldown timer reset logic after detection
+
+
