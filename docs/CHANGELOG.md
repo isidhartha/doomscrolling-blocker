@@ -1783,3 +1783,7 @@ All notable changes are documented here.
 - fix: fix cooldown timer reset logic after detection
 
 
+### 2026-06-18
+- feat: implement alert history endpoint with date filtering
+
+
