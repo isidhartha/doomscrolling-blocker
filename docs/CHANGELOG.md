@@ -1787,3 +1787,7 @@ All notable changes are documented here.
 - feat: implement alert history endpoint with date filtering
 
 
+### 2026-06-19
+- feat: implement MobileNet SSD phone detection via OpenCV DNN
+
+
