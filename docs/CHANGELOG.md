@@ -1791,3 +1791,7 @@ All notable changes are documented here.
 - feat: implement MobileNet SSD phone detection via OpenCV DNN
 
 
+### 2026-06-21
+- fix: handle OpenAI API timeout in analysis agent
+
+
