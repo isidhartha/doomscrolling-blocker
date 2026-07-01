@@ -1795,3 +1795,7 @@ All notable changes are documented here.
 - fix: handle OpenAI API timeout in analysis agent
 
 
+### 2026-06-22
+- perf: cache OpenCV DNN model to avoid reloading per frame
+
+
