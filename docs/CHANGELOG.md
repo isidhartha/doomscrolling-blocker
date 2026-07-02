@@ -1799,3 +1799,7 @@ All notable changes are documented here.
 - perf: cache OpenCV DNN model to avoid reloading per frame
 
 
+### 2026-06-27
+- refactor: extract phone detection logic from main loop
+
+
