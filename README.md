@@ -1,5 +1,7 @@
 # Doomscrolling Blocker
 
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/doomscrolling-blocker)](https://github.com/isidhartha/doomscrolling-blocker/discussions)
+
 A webcam-based phone detection tool that punishes doomscrolling by automatically opening a Rickroll in your browser whenever it spots your phone. Uses a MobileNet SSD model pretrained on COCO to detect cell phones (COCO class 77) in the live webcam feed. Runs entirely locally with no cloud dependencies.
 
 ---
