@@ -149,3 +149,21 @@ flowchart TD
 ## Author
 
 **Ram Sidhartha**
+
+---
+
+## Demo
+
+![Demo](docs/images/demo.gif)
+
+### Desktop View
+
+![Desktop screenshot](docs/images/screenshot_desktop.png)
+
+### Key Feature
+
+![Feature screenshot](docs/images/screenshot_feature.png)
+
+### Mobile View
+
+![Mobile screenshot](docs/images/screenshot_mobile.png)
