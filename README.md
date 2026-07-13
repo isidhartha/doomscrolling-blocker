@@ -70,7 +70,18 @@ flowchart LR
 
 ## Demo
 
-> Screenshots and GIF coming soon — hard to capture yourself being Rick-rolled.
+![Desktop view](docs/images/screenshot_desktop.png)
+
+![Feature highlight](docs/images/screenshot_feature.png)
+
+<details>
+<summary>Mobile / compact view</summary>
+
+![Mobile view](docs/images/screenshot_mobile.png)
+
+</details>
+
+![Demo walkthrough](docs/images/demo.gif)
 
 ## Contributing
 
