@@ -1,5 +1,7 @@
 # Doomscrolling Blocker
 
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/doomscrolling-blocker)](https://github.com/isidhartha/doomscrolling-blocker/discussions)
+
 I built this because I kept picking up my phone at my desk without even realising I was doing it. You know the thing — one second you're coding, the next you've been scrolling for 15 minutes and you don't know how you got there. So I wrote a script that watches my webcam and Rick-rolls me every time a phone shows up in frame.
 
 It uses MobileNet SSD (Caffe pretrained on COCO) running through OpenCV's DNN module. Class 77 in the COCO taxonomy is "cell phone", so when the detector fires on that class with confidence above 55%, the script opens the classic YouTube link in your browser. There's a 10-second cooldown so you don't get launched into the same tab five times from one lazy handreach. The whole thing runs on CPU at a usable frame rate — no GPU, no cloud API, no subscription.
