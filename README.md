@@ -1,87 +1,40 @@
 # Doomscrolling Blocker
 
-[![Discussions](https://img.shields.io/github/discussions/isidhartha/doomscrolling-blocker)](https://github.com/isidhartha/doomscrolling-blocker/discussions)
+I built this because I kept picking up my phone at my desk without even realising I was doing it. You know the thing — one second you're coding, the next you've been scrolling for 15 minutes and you don't know how you got there. So I wrote a script that watches my webcam and Rick-rolls me every time a phone shows up in frame.
 
-A webcam-based phone detection tool that punishes doomscrolling by automatically opening a Rickroll in your browser whenever it spots your phone. Uses a MobileNet SSD model pretrained on COCO to detect cell phones (COCO class 77) in the live webcam feed. Runs entirely locally with no cloud dependencies.
+It uses MobileNet SSD (Caffe pretrained on COCO) running through OpenCV's DNN module. Class 77 in the COCO taxonomy is "cell phone", so when the detector fires on that class with confidence above 55%, the script opens the classic YouTube link in your browser. There's a 10-second cooldown so you don't get launched into the same tab five times from one lazy handreach. The whole thing runs on CPU at a usable frame rate — no GPU, no cloud API, no subscription.
 
----
+If you haven't downloaded the model files yet, it starts in demo mode: the webcam window opens and shows the feed but detection is skipped, so it doesn't crash on first run.
+
+There's nothing sophisticated here. It's ~80 lines of Python, it either works or it doesn't, and when it does work it's surprisingly effective at building awareness of a habit you didn't know you had.
 
 ## Features
 
-- **Real-time phone detection** via MobileNet SSD (Caffe) running through OpenCV's DNN module
-- **COCO class 77** — the cell phone class is explicitly checked on every frame
-- **Confidence threshold filtering** — only triggers when detection confidence exceeds `PHONE_CONFIDENCE_THRESHOLD` (0.55)
-- **Cooldown guard** — enforces a `COOLDOWN_SECONDS` (10 s) minimum gap between browser opens to avoid repeat triggers
-- **On-screen overlay** — draws `PHONE DETECTED (xx%)` text on the live frame in red when a phone is found
-- **Demo mode** — if model files are missing, runs with the webcam open but skips detection rather than crashing
-- **Clean exit** — press `Q` to stop the webcam loop and release all resources
-
----
-
-## Key Constants
-
-```python
-RICKROLL_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-COOLDOWN_SECONDS = 10
-PHONE_CONFIDENCE_THRESHOLD = 0.55
-```
-
----
-
-## Functions
-
-### `load_detector() -> net`
-
-Loads the MobileNet SSD network via `cv2.dnn.readNetFromCaffe` from:
-
-- `models/MobileNetSSD_deploy.prototxt` (architecture definition)
-- `models/MobileNetSSD_deploy.caffemodel` (pretrained weights)
-
-If either file is missing, `run()` catches the exception, prints a warning, and continues in demo mode (webcam displays but no detection runs).
-
-### `detect_phone(frame, net) -> (bool, float)`
-
-1. Resizes the frame to 300 x 300 pixels and creates a DNN blob with scale factor `0.007843` and mean subtraction `127.5`.
-2. Runs a forward pass through the MobileNet SSD network.
-3. Iterates over all detections; for each one where `class_id == 77` (COCO cell phone) and `confidence > 0.55`, returns `(True, confidence)`.
-4. Returns `(False, 0.0)` if no qualifying detection is found.
-
-### `play_rickroll()`
-
-Prints `[!] Phone detected — enjoy your punishment.` to stdout and calls `webbrowser.open(RICKROLL_URL)` to open `https://www.youtube.com/watch?v=dQw4w9WgXcQ` in the default browser.
-
-### `run()`
-
-Main event loop:
-
-1. Calls `load_detector()` (or enters demo mode on failure).
-2. Opens the default webcam via `cv2.VideoCapture(0)`.
-3. On each frame: calls `detect_phone`, overlays detection text if a phone is found, and shows the frame in a window titled `Doomscrolling Blocker`.
-4. If a phone is detected and at least `COOLDOWN_SECONDS` have elapsed since the last trigger, calls `play_rickroll()` and resets the cooldown timer.
-5. Exits on `Q` keypress or webcam read failure, releasing the capture and destroying all windows.
-
----
+- **Real-time webcam phone detection** using OpenCV's DNN module with MobileNet SSD running on CPU at ~10-15 FPS
+- **COCO class 77 lookup** — checks specifically for cell phones, not just any object above the confidence threshold
+- **Configurable confidence threshold** via `PHONE_CONFIDENCE_THRESHOLD` constant (default 0.55) — raise it if you're getting false positives from TV remotes or dark objects
+- **10-second cooldown** between punishment triggers so a single held-up phone doesn't spam your browser with new tabs
+- **Live bounding box text** drawn on the webcam feed showing `PHONE DETECTED (82%)` in red whenever a phone is found
+- **Rick Astley punishment** — opens `https://www.youtube.com/watch?v=dQw4w9WgXcQ` in your default browser via `webbrowser.open`
+- **Demo mode fallback** — starts without crashing if model files are missing, just shows the webcam feed without detection
+- **Press Q to quit** cleanly — releases the webcam capture handle and closes all OpenCV windows
 
 ## Tech Stack
 
-| Library | Version | Purpose |
-|---------|---------|---------|
-| opencv-python | >= 4.8 | Webcam capture, DNN inference, frame display and overlay |
-| numpy | >= 1.24 | Frame array operations used internally by OpenCV blob creation |
-
----
+| Library | Purpose |
+|---|---|
+| `opencv-python` | Webcam capture, DNN module inference, frame display and overlay |
+| `numpy` | Frame array operations for DNN blob preprocessing |
 
 ## Setup
 
-### 1. Install dependencies
-
 ```bash
+git clone https://github.com/isidhartha/doomscrolling-blocker.git
+cd doomscrolling-blocker
 pip install -r requirements.txt
 ```
 
-### 2. Download model files
-
-Place the MobileNet SSD Caffe model files in a `models/` subdirectory:
+Download the MobileNet SSD model files and place them in `models/`:
 
 ```
 models/
@@ -89,81 +42,44 @@ models/
   MobileNetSSD_deploy.caffemodel
 ```
 
-Run the provided helper script to download them:
-
-```bash
-python download_models.py
-```
-
-Without these files the tool starts in demo mode: the webcam window opens but no phone detection runs.
-
-### 3. Run
+The files are available from the [MobileNet-SSD repository](https://github.com/chuanqi305/MobileNet-SSD). Without them the script starts in demo mode.
 
 ```bash
 python main.py
 ```
 
-Press `Q` to quit.
-
----
+Press `Q` to stop.
 
 ## Architecture
 
 ```mermaid
-flowchart TD
-    A[Webcam\ncv2.VideoCapture 0] -->|frame per iteration| B[detect_phone\nMobileNet SSD forward pass\nCOCO class 77]
-    B -->|confidence > 0.55| C{Cooldown\nelapsed?\n10 seconds}
-    C -->|yes| D[play_rickroll\nwebbrowser.open\nhttps://youtu.be/dQw4w9WgXcQ]
-    C -->|no| E[Display frame\nDoomscrolling Blocker window]
-    B -->|no phone found| E
-    D --> E
-    E -->|Q key pressed| F[cap.release\ndestroyAllWindows]
+flowchart LR
+    A[Webcam\ncv2.VideoCapture] --> B[Frame Capture\n~30 FPS loop]
+    B --> C[Blob Preprocessing\n300x300 resize\nscale 0.007843]
+    C --> D[MobileNet SSD\nDNN forward pass]
+    D --> E{Class 77 detected?\nconf > 0.55?}
+    E -- No --> F[Display Frame]
+    E -- Yes --> G{Cooldown\n10s elapsed?}
+    G -- No --> F
+    G -- Yes --> H[webbrowser.open\nRickroll URL]
+    H --> F
+    F --> B
 ```
-
----
-
-## Detection Details
-
-| Parameter | Value | Notes |
-|-----------|-------|-------|
-| Model | MobileNet SSD | Lightweight single-shot detector |
-| Training dataset | COCO | 80-class object detection |
-| Cell phone class ID | 77 | COCO index for `cell phone` |
-| Input resolution | 300 x 300 px | Frame resized before blob creation |
-| Blob scale factor | 0.007843 | 1/127.5 normalisation |
-| Blob mean subtraction | 127.5 | Applied uniformly across channels |
-| Confidence threshold | 0.55 | `PHONE_CONFIDENCE_THRESHOLD` constant |
-| Rickroll cooldown | 10 s | `COOLDOWN_SECONDS` constant |
-| Rickroll URL | `https://www.youtube.com/watch?v=dQw4w9WgXcQ` | `RICKROLL_URL` constant |
-
----
-
-## Screenshots
-
-| Live Detection Window |
-|---|
-| *(run `python main.py` to see the webcam feed with detection overlay)* |
-
----
-
-## Author
-
-**Ram Sidhartha**
-
----
 
 ## Demo
 
-![Demo](docs/images/demo.gif)
+> Screenshots and GIF coming soon — hard to capture yourself being Rick-rolled.
 
-### Desktop View
+## Contributing
 
-![Desktop screenshot](docs/images/screenshot_desktop.png)
+PRs welcome. Useful additions: configurable punishment URL via CLI flag, sound alert instead of browser tab, macOS/Linux testing notes, adjustable cooldown via argument.
 
-### Key Feature
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-![Feature screenshot](docs/images/screenshot_feature.png)
+## License
 
-### Mobile View
+MIT
 
-![Mobile screenshot](docs/images/screenshot_mobile.png)
+## Author
+
+[isidhartha](https://github.com/isidhartha)
